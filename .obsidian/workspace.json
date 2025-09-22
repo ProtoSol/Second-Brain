@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/Basic Relationship between Variables.md",
+                "file": "99. Archive/Archive.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Relationship between Variables"
-            }
-          },
-          {
-            "id": "06c9320e46be27b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Source Material/Github Repositories/Microsoft's Data Science Repository.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Microsoft's Data Science Repository"
+              "title": "Archive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,44 +181,44 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "06c9320e46be27b6",
+  "active": "7be3ef2ba896e33f",
   "lastOpenFiles": [
-    "2. Source Material/Books/Introduction to Statistical Learning.md",
+    "10. Research Papers/C++ Papers.md",
+    "9. To Learn/Math for DS.md",
+    "9. To Learn/Graphics Engineering.md",
+    "9. To Learn/Game Dev.md",
+    "9. To Learn/Data Science.md",
+    "6. Main Notes/2025-09-22.md",
+    "6. Main Notes/Basic Relationship between Variables.md",
+    "6. Main Notes/Untitled.base",
+    "9. To Learn/C++.md",
     "2. Source Material/Github Repositories/Microsoft's Data Science Repository.md",
+    "Templates/Reading Log Entry Helper.md",
+    "Templates",
+    "Derivations/Derivation Log.md",
+    "Derivations",
+    "Indexes/Knowledge Hub.md",
+    "Indexes",
+    "10. Research Papers/Graphics Engineering Papers.md",
+    "99. Archive/Archive.md",
+    "99. Archive",
+    "10. Research Papers/Graphic Engineering Papers.md",
+    "10. Research Papers/Game Dev Papers.md",
+    "10. Research Papers/DSA Papers.md",
+    "10. Research Papers/Data Science Papers.md",
+    "10. Research Papers/Math for DS Papers.md",
+    "10. Research Papers",
+    "9. To Learn/Graphic Engineering.md",
+    "9. To Learn/DSA.md",
+    "9. To Learn",
+    "2. Source Material/Books/Introduction to Statistical Learning.md",
     "6. Main Notes/Characters.md",
     "2. Source Material/Github Repositories",
-    "6. Main Notes/Basic Relationship between Variables.md",
     "6. Main Notes/Base Lore of the World.md",
     "5. Templates/Main Note.md",
     "Story Log/Rough Draft.md",
-    "3. Tags/Story.md",
-    "3. Tags/Maths.md",
-    "6. Main Notes/Insertion Sort.md",
-    "6. Main Notes/Lecture 1 of MIT Introduction to Algorithm.md",
-    "7. Drawings/Insertion Sort.md",
-    "2. Source Material/Books/Books I must Read.md",
-    "6. Main Notes/Asymptotic Notations.md",
-    "7. Drawings/O(n.2) vs O(n.3).md",
-    "6. Main Notes/What is Statistical Learning.md",
-    "3. Tags/Statistics.md",
-    "3. Tags/Regression.md",
-    "3. Tags/Computer Science.md",
-    "3. Tags/Algorithm.md",
     "Untitled.canvas",
-    "7. Drawings/Testing.excalidraw.md",
-    "6. Main Notes/Testing Notes.md",
-    "3. Tags/Book.md",
-    "6. Main Notes/Testing the Note.md",
-    "7. Drawings/Drawing 2025-02-25 02.26.05.excalidraw.md",
     "8. Projects",
-    "Excalidraw/Drawing 2025-02-25 02.03.53.excalidraw.md",
-    "Excalidraw",
-    "7. Drawings",
-    "2. Source Material/Papers",
-    "2. Source Material/Videos",
-    "2. Source Material/Books",
-    "2. Source Material/Articles",
-    "Story Log",
-    "6. Main Notes"
+    "Excalidraw"
   ]
 }
