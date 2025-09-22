@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. To Learn/Data Science.md",
+                "file": "1. Indexes/Knowledge Hub.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Science"
+              "title": "Knowledge Hub"
             }
           }
         ]
@@ -192,15 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7be3ef2ba896e33f",
+  "active": "a776b7a443eef7ae",
   "lastOpenFiles": [
-    "Indexes/Knowledge Hub.md",
+    "9. To Learn/Data Science.md",
+    "1. Indexes/Knowledge Hub.md",
     "99. Archive/Archive.md",
     "10. Research Papers/C++ Papers.md",
     "9. To Learn/Math for DS.md",
     "9. To Learn/Graphics Engineering.md",
     "9. To Learn/Game Dev.md",
-    "9. To Learn/Data Science.md",
     "6. Main Notes/2025-09-22.md",
     "6. Main Notes/Basic Relationship between Variables.md",
     "6. Main Notes/Untitled.base",
@@ -210,7 +210,7 @@
     "Templates",
     "Derivations/Derivation Log.md",
     "Derivations",
-    "Indexes",
+    "1. Indexes",
     "10. Research Papers/Graphics Engineering Papers.md",
     "99. Archive",
     "10. Research Papers/Graphic Engineering Papers.md",

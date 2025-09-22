@@ -24,7 +24,7 @@ Purpose: Temporary holding area for resources removed from focused notes. Each e
 ## Cross Links
 - Domain notes: `9. To Learn`
 - Research corpora: `10. Research Papers`
-- Knowledge overview: [[../Indexes/Knowledge Hub]]
+- Knowledge overview: [[Knowledge Hub]]
 
 ---
 Guideline: If a resource is untouched for 2 reviews and not uniquely valuable, delete or summarize and delete.
