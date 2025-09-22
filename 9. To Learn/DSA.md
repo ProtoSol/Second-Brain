@@ -20,6 +20,8 @@ Build deep algorithmic intuition + implementation fluency for problem solving, i
 ### Phase 0 (Grounding) – 2–3 days
 - Big-O, Omega, Theta formal refresh
 - Iteration vs recursion, call stack model
+- Basic sorting algorithms (bubble, selection, insertion) - implement from scratch
+- Recursion fundamentals & visualization (factorial, fibonacci, tree traversal patterns)
 ### Phase 1 (Core Linear + Hash) – 1 week
 - Arrays / Sliding Window / Two Pointers
 - Hash Maps/Sets (collision, load factor awareness)
@@ -39,10 +41,12 @@ Build deep algorithmic intuition + implementation fluency for problem solving, i
 - Union-Find (path compression, union by rank)
 ### Phase 5 (Algorithms Paradigms) – 2 weeks
 - Sorting families (comparison vs non-comparison awareness)
-- Divide & Conquer (merge sort, quickselect)
+- Advanced sorting (merge sort, quicksort, heap sort) & hybrid approaches
+- Divide & Conquer (merge sort, quickselect, closest pair)
 - Greedy proof sketches (exchange arguments)
 - Dynamic Programming (1D, 2D, state compression)
 - Backtracking (pruning, ordering)
+- Basic string algorithms (pattern matching, longest common subsequence)
 ### Phase 6 (Advanced / Optimization) – ongoing
 - Segment Tree / Fenwick Tree
 - Disjoint Set advanced (rollback DSU, offline queries)
@@ -64,6 +68,8 @@ Build deep algorithmic intuition + implementation fluency for problem solving, i
 
 ## Core Topics Checklist
 - [ ] Complexity refresher summary note written
+- [ ] Implement basic sorts (bubble, selection, insertion) from scratch
+- [ ] Recursion visualization examples (tree drawing for fibonacci, factorial)
 - [ ] Implement iterative traversals (pre/in/post) without recursion
 - [ ] Build min + max heap wrapper
 - [ ] Implement union-find with path compression + rank
@@ -72,10 +78,19 @@ Build deep algorithmic intuition + implementation fluency for problem solving, i
 - [ ] Solve 10 sliding window problems
 - [ ] Solve 10 two-pointer problems
 - [ ] Solve 15 DP problems (5 knapsack-like, 5 sequence, 5 grid)
-- [ ] KMP implementation + explanation note
+- [ ] String algorithms: KMP + longest common subsequence implemented
 - [ ] Segment Tree build/query/update implemented
 - [ ] Suffix Array or Trie constructed
 - [ ] Articulation points + bridges algorithm implemented
+- [ ] Matrix manipulation algorithms (rotation, spiral traversal)
+
+## Progress Metrics (Manual)
+Checklist Progress: 0 / 16
+Current Phase: (Phase 0–6)
+Active Pattern Focus: (e.g., Sliding Window / Graph Traversal)
+Last Review: (YYYY-MM-DD)
+Next Review: (YYYY-MM-DD)
+Pattern Win This Week: (fill after weekly retro)
 
 ## Practice Sources (Curated)
 - LeetCode (structured): https://leetcode.com/explore/

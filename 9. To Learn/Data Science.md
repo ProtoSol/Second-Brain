@@ -7,9 +7,17 @@ Tags: #DataScience #Learning
 # Data Science Learning
 
 ## Purpose
-Develop end‑to‑end capability: acquire, clean, explore, model, evaluate, deploy, and monitor data & ML systems with sound statistical reasoning and ethical awareness.
+Develop end‑to‑end capability: acqu### Machine Learning
+- Hands-On Machine Learning (Aurélien Géron) – implementation depth
+- ISLR (theory + intuition)
+- Made With ML (modern practical course): https://madewithml.com/#course
+- scikit-learn User Guide (algorithms documentation): https://scikit-learn.org/stable/user_guide.html
+### Advanced ML & Statistics
+- Think Stats (statistical intuition): https://greenteapress.com/thinkstats/
+- Pattern Recognition and Machine Learning (Bishop) – theory reference
+- XGBoost documentation: https://xgboost.readthedocs.io/ clean, explore, model, evaluate, deploy, and monitor data & ML systems with sound statistical reasoning and ethical awareness.
 
-## Outcomes (Definition of "Done")
+## Outcomes (Definition of “Done”)
 - Comfortable moving from raw data → reproducible pipeline → deployed model
 - Can choose / justify evaluation metrics per problem type
 - Writes vectorized, memory‑aware Python (NumPy/Pandas) and avoids premature loops
@@ -31,28 +39,49 @@ Develop end‑to‑end capability: acquire, clean, explore, model, evaluate, dep
 - Python idioms, notebooks vs scripts, virtual envs
 - NumPy array operations, Pandas indexing, joins, reshaping
 - Descriptive statistics & visualization (Matplotlib / Seaborn)
-### Phase 2 (Weeks 3–4): Data Wrangling & EDA
+### Phase 1.5 (Week 3): Statistics Foundations
+- Descriptive statistics (central tendency, dispersion, skewness, kurtosis)
+- Probability distributions (PDF, CDF, PMF)
+- Common distributions (Normal, Binomial, Poisson, Exponential)
+- Central Limit Theorem intuition & applications
+### Phase 2 (Weeks 4–5): Data Wrangling & EDA
 - Missing data strategies, outlier detection, feature types
 - Exploratory reports (profiling, univariate & pairwise analysis)
-### Phase 3 (Weeks 5–7): Core ML
+### Phase 2.5 (Week 6): Statistical Inference
+- Confidence intervals & interpretation
+- Hypothesis testing (t-tests, chi-square test, ANOVA)
+- p-values, statistical significance, Type I/II errors
+### Phase 3 (Weeks 7–9): Core ML
 - Train/test/validation splits, cross‑validation
 - Linear & logistic regression, regularization, tree models, ensembles
 - Metrics: regression (MAE/MSE/R2), classification (ROC/PR/F1), ranking basics
-### Phase 4 (Weeks 8–10): Feature Engineering & Experimentation
+### Phase 4 (Weeks 10–12): Feature Engineering & Experimentation
 - Pipelines (scikit‑learn), feature unions, target leakage avoidance
+- Advanced feature engineering (encoding, discretization, scaling)
 - Hyperparameter tuning (grid, random, basic Bayesian awareness)
 - Model comparison & ablation logging
-### Phase 5 (Weeks 11–13): Deep Learning & Representation
+### Phase 4.5 (Weeks 13–15): Advanced ML Algorithms
+- Naive Bayes (theory, variants, text classification)
+- Support Vector Machines (kernels, dual formulation, regularization)
+- Decision Trees (splitting criteria, pruning, interpretability)
+- Ensemble Methods (Bagging, Random Forest, Gradient Boosting, XGBoost)
+### Phase 5 (Weeks 16–18): Deep Learning & Representation
 - PyTorch tensors, autograd, training loop anatomy
 - CNN vs RNN intuition → Transformer basics
 - Embeddings & transfer learning (pretrained models)
-### Phase 6 (Weeks 14–16): Deployment & MLOps
+### Phase 6 (Weeks 19–21): Deployment & MLOps
 - Packaging model (ONNX / pickle risks / TorchScript awareness)
 - Tracking (MLflow lightweight usage) + experiment metadata
 - Simple REST inference service + batch scoring job
+### Phase 6.5 (Weeks 22–24): Advanced MLOps
+- Containerization (Docker basics, Kubernetes awareness)
+- CI/CD pipelines for ML models
+- Model monitoring, alerting, and drift detection
+- Technical debt management in ML systems
 ### Phase 7 (Ongoing): Specialization & Projects
 - Select focus (e.g. NLP): tokenization, embeddings, fine‑tune small model
 - Add domain datasets + write case study notes
+- Unsupervised learning (K-means, PCA, clustering evaluation)
 
 ## Practice Cadence
 Daily: 1 small data manipulation kata + 1 modeling iteration + log learning.
@@ -62,26 +91,49 @@ Monthly: Retrospective – prune obsolete resources to Archive.
 ## Core Topics Checklist
 - [ ] Vectorization refresher note (NumPy broadcasting examples)
 - [ ] Pandas joins cheat sheet
+- [ ] Descriptive statistics summary (measures of central tendency, dispersion)
+- [ ] Probability distributions comparison chart (Normal, Binomial, Poisson)
+- [ ] Central Limit Theorem demonstration with code
+- [ ] Hypothesis testing workflow (t-test, chi-square, ANOVA examples)
 - [ ] Implement custom scikit-learn transformer + pipeline
 - [ ] Create EDA template notebook reusable across datasets
+- [ ] Advanced feature engineering techniques (encoding, scaling, outliers)
+- [ ] Naive Bayes implementation from scratch + text classification
+- [ ] SVM with different kernels (linear, RBF, polynomial)
+- [ ] Decision Tree visualization + feature importance analysis
+- [ ] Ensemble methods comparison (Bagging vs Boosting)
 - [ ] Baseline regression + classification project (document metrics)
-- [ ] Cross-validation experiment comparing 3 models
+- [ ] Cross-validation experiment comparing 5+ models
 - [ ] Hyperparameter tuning run (random search) logged
 - [ ] Implement early stopping & learning curves plot
 - [ ] Build minimal PyTorch training loop (no high-level trainers)
 - [ ] Train small transformer or use pretrained embedding for task
 - [ ] Package model behind FastAPI endpoint
 - [ ] Add experiment tracking (MLflow or lightweight JSON logger)
+- [ ] Docker containerization for ML model
 - [ ] Monitor inference latency + basic drift metric (population stability index)
+- [ ] K-means clustering + evaluation metrics
+
+## Progress Metrics (Manual)
+Checklist Progress: 0 / 24
+Current Phase: (Phase 1–7)
+Active Project: (e.g., Project 1 – Data Profiling Report)
+Last Review: (YYYY-MM-DD)
+Next Review: (YYYY-MM-DD)
+Metric to Improve: (e.g., F1 / latency / drift detection clarity)
 
 ## Project Ladder (Progressive)
 1. Data Profiling Report (public dataset) – focus: EDA template
-2. Clean & Predict Housing Prices – focus: regression baseline vs ensemble
-3. Customer Churn Classification – focus: feature engineering & class imbalance
-4. Text Sentiment Mini-NLP – focus: tokenization + simple deep model
-5. Deployment: REST + batch scoring for previous model
-6. Monitoring & Drift Simulation – synthetic shift injection + alert conditions
-7. Specialization Capstone – end‑to‑end with documentation & reproducible pipeline
+2. Statistical Analysis Project – focus: hypothesis testing, confidence intervals
+3. Clean & Predict Housing Prices – focus: regression baseline vs ensemble
+4. Customer Churn Classification – focus: feature engineering & class imbalance
+5. Advanced ML Comparison – focus: Naive Bayes vs SVM vs Tree models
+6. Text Sentiment Mini-NLP – focus: tokenization + simple deep model
+7. Clustering Analysis Project – focus: K-means, evaluation, visualization
+8. Deployment: REST + batch scoring for previous model
+9. MLOps Pipeline – focus: Docker, monitoring, CI/CD basics
+10. Monitoring & Drift Simulation – synthetic shift injection + alert conditions
+11. Specialization Capstone – end‑to‑end with documentation & reproducible pipeline
 
 ## Curated Resources (Trimmed)
 ### Structured Curricula
@@ -93,7 +145,7 @@ Monthly: Retrospective – prune obsolete resources to Archive.
 - NumPy fundamentals: https://numpy.org/doc/stable/user/absolute_beginners.html
 ### Machine Learning
 - Hands-On Machine Learning (Aurélien Géron) – implementation depth
-- ISLR (theory + intuition)
+- ISLP (theory + intuition)
 - Made With ML (modern practical course): https://madewithml.com/#course
 ### Deep Learning
 - Karpathy Neural Networks: Zero to Hero: https://karpathy.ai/zero-to-hero.html
@@ -102,6 +154,8 @@ Monthly: Retrospective – prune obsolete resources to Archive.
 - Full Stack Deep Learning (prod systems): https://fullstackdeeplearning.com/course/2022/
 - MLflow quickstart: https://mlflow.org/docs/latest/quickstart.html
 - FastAPI docs (serving): https://fastapi.tiangolo.com/
+- Docker for Data Science: https://docker-curriculum.com/
+- Kubernetes basics: https://kubernetes.io/docs/tutorials/
 ### Feature Engineering / Performance
 - Feature Engineering Kaggle Course: https://www.kaggle.com/learn/feature-engineering
 - Efficient Pandas (benchmark patterns) – write internal note
@@ -119,7 +173,7 @@ Monthly: Retrospective – prune obsolete resources to Archive.
 - Andrej Karpathy (DL systems & intuition)
 - Computerphile (systems & conceptual overviews)
 
-(Trimmed large NPTEL list; add specific course links only when enrolling. Removed CUDA here—see [[Graphic Engineering]] for GPU deep dive.)
+(Trimmed large NPTEL list; add specific course links only when enrolling. Removed CUDA here—see [[Graphics Engineering]] for GPU deep dive.)
 
 ## Internal Links
 - Math foundations: [[Math for DS]]

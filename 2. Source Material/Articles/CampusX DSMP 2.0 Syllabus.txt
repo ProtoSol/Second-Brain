@@ -1,0 +1,2373 @@
+﻿CampusX Data Science Mentorship Program
+
+
+
+
+Week 1: Basics of Python Programming
+1. Session 1: Python Basics
+   * Short info about DSMP (3:38 - 6:57)
+   * About Python (7:00 – 24:30)
+   * Python Output/print function (24:30 – 38:37)
+   * Python Data Types (38:37 – 51:25)
+   * Python Variables (51:25 – 1:04:49)
+   * Python comments (1:04:49 – 1:09:09)
+   * Python Keywords and Identifiers (1:09:09 – 1:22:38)
+   * Python User Input (1:22:38 – 1:35:00)
+   * Python Type conversion (1:35:00 – 1:47:29)
+   * Python Literals (1:47:29 – 2:10:22)
+2. Session 2: Python Operators + if-else + Loops
+   * Start of the session (00:00:00 – 00:09:02)
+   * Python Operators (00:09:02 – 00:43:00)
+   * Python if-else (00:43:00 – 01:14:50)
+   * Python Modules (01:14:50 – 01:24:48)
+   * Python While Loop (01:24:48 – 01:48:03)
+   * Python for loop (01:48:03 – 02:11:34)
+3. Session 3: Python Strings
+   * Introduction (00:00:00 – 00:09:08)
+   * Solving Loop problems (00:00:08 – 00:47:10)
+   * Break, continue, pass statement in loops (00:47:10 – 01:06:42)
+   * Strings (01:06:42 – 1:14:15)
+   * String indexing (01:14:15 – 01:18:14)
+   * String slicing (01:18:14 – 01:27:06)
+   * Edit and delete a string (01:27:06 – 01:32:14)
+   * Operations on String (01:32:14 – 01:47:24)
+   * Common String functions (01:47:14 – 02:22:53)
+4. Session on Time complexity
+   * Start of the Session (00:00:00 – 00:11:22)
+   * PPT presentation on Time Complexity (Efficiency in Programming and Orders of Growth) (00:11:22 – 01:12:30)
+   * Examples (01:12:30 – 01:42:00)
+5. Week 1 Interview Questions
+
+
+
+
+
+
+
+
+Week 2: Python Data Types
+1. Session 4: Python Lists
+   * Introduction
+   * Array vs List
+   * How lists are stored in a memory
+   * Characteristics of Python List
+   * Code Example of Lists
+      1. Create and access a list
+      2. append(), extend(), insert()
+      3. Edit items in a list
+      4. Deleting items from a list
+      5. Arithmetic, membership and loop operations on a List
+      6. Various List functions
+      7. List comprehension
+      8. 2 Ways to traverse a list
+      9. Zip() function
+      10. Python List can store any kind of objects
+   * Disadvantages of Python list
+2. Session 5: Tuples + Set + Dictionary
+   * Tuple
+      1. Create and access a tuple
+      2. Can we edit and add items to a tuple?
+      3. Deletion
+      4. Operations on tuple
+      5. Tuple functions
+      6. List vs tuple
+      7. Tuple unpacking
+      8. Zip () on tuple
+   * Set
+      1. Create and access a set
+      2. Can we edit and add items to a set?
+      3. Deletion
+      4. Operations on set
+      5. set functions
+      6. Frozen set (immutable set)
+      7. Set comprehension
+   * Dictionary
+      1. Create dictionary
+      2. Accessing items
+      3. Add, remove, edit key-value pairs
+      4. Operations on dictionary
+      5. Dictionary functions
+      6. Dictionary comprehension
+      7. Zip() on dictionary
+      8. Nested comprehension
+3. Session 6: Python Functions
+   * Create function
+   * Arguments and parameters
+   * args and kwargs
+   * How to access documentation of a function
+   * How functions are executed in a memory
+   * Variable scope
+   * Nested functions with examples
+   * Functions are first-class citizens
+   * Deletion of function
+   * Returning of function
+   * Advantages of functions
+   * Lambda functions
+   * Higher order functions
+   * map(), filter(), reduce()
+4. Paid Session on Career QnA
+5. Array Interview Questions
+6. Week 2 Interview Questions
+Week 3: Object Oriented Programming (OOP)
+1. Session 7: OOP Part1
+   * What is OOP?
+   * What are classes and Objects?
+   * Banking application coding
+   * Methods vs Functions
+   * Class diagram
+   * Magic/Dunder methods
+   * What is the true benefit of constructor?
+   * Concept of ‘self’
+   * Create Fraction Class
+   * __str__, __add__, __sub__ , __mul__ , __truediv__
+2. Session 8: OOP Part2
+   * Revision of last session by solving problems
+   * How objects access attributes
+   * Attribute creation from outside of the class
+   * Reference Variables
+   * Mutability of Object
+   * Encapsulation
+   * Collection of objects
+   * Static variables and methods
+3. Session 9: OOP Part3
+   * Class Relationship
+   * Aggregation and aggregation class diagram
+   * Inheritance and Inheritance class diagram
+   * Constructor example
+   * Method Overriding
+   * Super keyword
+   * Super constructor
+   * Practice questions on Inheritance
+   * Types of Inheritance (Single, Multilevel, Hierarchical,Multiple )
+   * Hybrid Inheritance
+   * Code example and diamond problem
+   * Polymorphism
+   * Method Overriding and Method Overloading
+   * Operator Overloading
+4. Session on Abstraction
+   * What is Abstraction?
+   * Bank Example Hierarchy
+   * Abstract class
+   * Coding abstract class (BankApp Class) 
+5. Session on OOP Project
+6. Week 3 Interview Questions
+Week 4: Advanced Python:
+1. Session 10: File Handling + Serialization & Deserialization
+   * How File I/O is done
+   * Writing to a new text file
+   * What is open()?
+   * append()
+   * Writing many lines
+   * Saving a file
+   * Reading a file -> read() and readline()
+   * Using context manager -> with()
+   * Reading big file in chunks
+   * Seek and tell
+   * Working with Binary file
+   * Serialization and Deserialization
+   * JSON module -> dump() and load()
+   * Serialization and Deserialization of tuple, nested dictionary and custom object
+   * Pickling
+   * Pickle vs JSON
+2. Session 11: Exception Handling
+   * Syntax Error with Examples
+   * Exception with Examples
+   * Why we need to handle Exception?
+   * Exception Handling (Try-Except-Else-Finally)
+   * Handling Specific Error
+   * Raise Exception
+   * Create custom Exception
+3. Session 12: Decorators and Namespaces
+   * Namespaces
+   * Scope and LEGB rule
+   * Hands-on local, enclosing, global and built-in scope
+   * Decorators with Examples
+4. Session on Iterators
+   * What are iterators
+   * What are iterables
+   * How for loop works in Python?
+   * Making your own for loop
+   * Create your own range function
+   * Practical example to use iterator
+5. Session on Generator
+   * What is a generator?
+   * Why to use Generator?
+   * Yield vs Return
+   * Generator Expression
+   * Practical Examples
+   * Benefits of generator
+6. Session on Resume Building
+7. Session on GUI Development using Python
+   * GUI development using tkinter
+8. Week 4 Interview Questions
+Week 5: Numpy
+1. Session 13: Numpy Fundamentals
+   * Numpy Theory
+   * Numpy array
+   * Matrix in numpy
+   * Numpy array attributes
+   * Array operations
+   * Scalar and Vector operations
+   * Numpy array functions
+      1. Dot product
+      2. Log, exp, mean, median, std, prod, min, max, trigo, variance, ceil, floor, slicing, iteration
+      3. Reshaping
+      4. Stacking and splitting
+2. Session 14: Advanced Numpy
+   * Numpy array vs Python List
+   * Advanced, Fancy and Boolean Indexing
+   * Broadcasting
+   * Mathematical operations in numpy
+   * Sigmoid in numpy
+   * Mean Squared Error in numpy
+   * Working with missing values
+   * Plotting graphs
+3. Session 15: Numpy Tricks
+   * Various numpy functions like sort, append, concatenate, percentile, flip, Set functions, etc.
+4. Session on Web Development using Flask
+   * What is Flask library
+   * Why to use Flask?
+   * Building login system and name entity recognition with API
+Week 6: Pandas
+1. Session 16: Pandas Series
+   * What is Pandas?
+   * Introduction to Pandas Series
+   * Series Methods
+   * Series Math Methods
+   * Series with Python functionalities
+   * Boolean Indexing on Series
+   * Plotting graphs on series
+2. Session 17: Pandas DataFrame
+   * Introduction Pandas DataFrame
+   * Creating DataFrame and read_csv()
+   * DataFrame attributes and methods
+   * Dataframe Math Methods
+   * Selecting cols and rows from dataframe
+   * Filtering a Dataframe
+   * Adding new columns
+   * Dataframe function – astype()
+3. Session 18: Important DataFrame Methods
+   *  Various DataFrame Methods
+   * Sort, index, reset_index, isnull, dropna, fillna, drop_duplicates, value_counts, apply, etc.
+4. Session on API Development using Flask
+   * What is API?
+   * Building API using Flask
+   * Hands-on project
+5. Session on Numpy Interview Question
+Week 7: Advanced Pandas
+1. Session 19: GroupBy Object
+   * What is GroupBy?
+   * Applying builtin aggregation fuctions on groupby objects
+   * GroupBy Attributes and Methods
+   * Hands-on on IPL dataset
+2. Session 20: Merging, Joining, Concatenating
+   * Pandas concat method
+   * Merge and join methods
+   * Practical implementations
+3. Session on Streamlit
+   * Introduction to Streamlit
+   * Features of Streamlit
+   * Benefits of Streamlit
+   * Flask vs Streamlit
+   * Mini-project on Indian Startup Funding Dataset using Streamlit – Part 1
+4. Session on Pandas Case Study (Indian Startup Funding)
+   * Data Analysis on Indian Startup Funding Dataset and display results on the Dashboard made by Streamlit – Part 2
+5. Session on Git:
+   * What is Git?
+   * What is VCS/SCM?
+   * Why Git/VCS is needed?
+   * Types of VCS
+   * Advantages
+   * How Git works?
+   * Installing git
+   * Creating and Cloning repo
+   * add, commit, add ., gitignore
+   * seeing commits (log -> oneline)
+   * Creating versions of a software
+6. Session on Git and GitHub:
+   * Nonlinear Development (Branching)
+   * Merging branches
+   * Undoing changes
+   * Working with a remote repo
+
+
+Week 8: Advanced Pandas Continued
+1. Session 21: MultiIndex Series and DataFrames
+   * About Multiindex objects
+   * Why to use Multiindex objects
+   * Stacking and unstacking
+   * Multiindex DataFrames
+   * Transpose Dataframes
+   * Swaplevel
+   * Long vs wide data
+   * Pandas-melt
+2. Session 22: Vectorized String Operations | Datetime in Pandas
+   * Pivot table
+   * Agg functions
+   * Vectorized String operations
+   * Common functions
+   * Pandas Datetime
+3. Session on Pandas Case Study – time Series analysis
+4. Session on Pandas Case Study – Working with textual data
+
+
+
+
+Week 9: Data Visualization
+1. Session 23: Plotting Using Matplotlib
+   * Get started with Matplotlib
+   * Plotting simple functions, labels, legends, multiple plots
+   * About scatter plots
+   * Bar chart
+   * Histogram
+   * Pie chart
+   * Changing styles of plots
+2. Session 24: Advanced Matplotlib
+   * Colored Scatterplot
+   * Plot size, annotations
+   * Subplots
+   * 3D plots
+   * Contour plots
+   * Heatmaps
+   * Pandas plot()
+3. Session on Plotly (Express)
+   * About Plotly
+   * Disadvantages
+   * Introduction about Plotly Go, Plotly Express, Dash
+   * Hands-on Plotly
+4. Session on Plotly Graph Objects (go)
+5. Session on Plotly Dash
+   * Basic Introduction about Dash
+6. Making a COVID-19 dashboard using Plotly and Dash
+7. Deploying a Dash app on Heroku
+8. Session on Project using Plotly
+   * Project using Indian Census Data with Geospatial indexing Dataset
+Week 10: Data Visualization Continued
+1. Session 25: Plotting Using Seaborn- part 1
+   * Why seaborn?
+   * Seaborn roadmap
+   * Main Classification plotting
+   * Relational plots
+   * Distribution plots
+   * KDE plot
+   * Matrix plot
+2. Session 26: Plotting Using Seaborn- Part 2
+   * Categorical Plots
+   * Stripplot
+   * Figure level function — catplot
+   * Swarmplot
+   * Categorical Distribution Plots
+   * Boxplot
+   * Violinplot
+   * Categorical Estimate Plot — for central tendency
+   * Barplot
+   * Pointplot
+   * Countplot
+   * Faceting
+   * Doubt - error bar issue
+   * Regression Plots
+   * Regplot
+   * Lmplot
+   * Residual Plot
+   * FacetGrid
+   * Pairplot and Pairgrid
+   * JointGrid and Jointplot
+   * Utility Function in Seabom - load_dataset
+   * Blog idea
+3. Session on Open-Source Software – Part 1
+4. Session on Open-Source Software – Part 1
+Week 11: Data Analysis Process - Part1
+1. Session 27: Data Gathering | Data Analysis
+* Data Analysis Process
+* Import Data from various sources (CSV, excel, JSON, text, SQL)
+* Export data in different file formats
+* Gather Data through API or Web Scraping
+2. Session 28: Data Assessing and Cleaning
+   * Data assessing
+   * Types of unclean data
+   * Write summary of data
+   * Types of Assessment
+   * Manual and Automatic Assessment
+   * Data Quality Dimension
+   * Data Cleaning
+3. Session on ETL using AWS RDS
+   * Introduction about Extraction, transform and Load pipeline
+   * Fetch data from AWS
+   * Apply transformation on the data
+   * Upload transformed data into AWS RDS
+4. Session on Advanced Web Scraping using Selenium
+   * Introduction to Selenium and Chromedriver
+   * Automated Web scraping on Smartprix website
+
+
+
+
+
+
+Week 12: Data Analysis Process – Part 2
+1. Session on Data Cleaning Case Study – Smartphone dataset
+   * Quality issues
+   * Tidiness issues
+   * Data Cleaning
+2. Session 29: Exploratory Data Analysis (EDA)
+   * Introduction to EDA
+   * Why EDA?
+   * Steps for EDA
+   * Univariate Analysis
+   * Bivariate Analysis
+   * Feature Engineering
+3. Session on Data Cleaning – Part 2
+   * Data Cleaning on Smartphone Dataset – Continued
+4. Session on EDA Case Study – Smartphone Dataset
+Week 13: SQL Basics
+1. Session 30: Database Fundamentals
+   * Introduction to Data and Database
+   * CRUD operations
+   * Properties of database
+   * Types of Database
+   * DBMS
+   * Keys
+   * Cardinality of Relationship
+   * Drawbacks of Database
+2. Session 31: SQL DDL Commands
+   * Xampp Software
+   * Types of SQL commands
+   * DDL commands
+3. Session on Tableau – Olympics Dataset (Part 1)
+   * Download and Install Tableau
+   * Getting Started with Tableau Desktop
+   * Overview of Olympic datasets
+   * Create Dashboards using Tableau
+Week 14: SQL Continued – Part 1
+1. Session 32: SQL DML commands
+   * MySQL workbench
+   * INSERT
+   * SELECT
+   * UPDATE
+   * DELETE
+   * Functions in SQL
+2. Session 33: SQL Grouping and Sorting
+   * Sorting Data
+   * ORDER BY
+   * GROUP BY
+   * GROPU BY on multiple columns
+   * HAVING clause
+   * Practice on IPL Dataset
+3. Session on Tableau – Part 2
+   * Tableau Basics
+      1. Importing Data
+      2. Measures and Dimensions
+      3. Sheet, dashboard, story
+      4. Levels of Granularity
+      5. Different types of charts
+      6. Datetime
+   * Hierarchical level of granularity
+   * Common filters
+   * Calculated fields and Table Calculations
+   * Working with Geographical columns
+   * Dashboard and Interactive filters
+   * Blending and Dual axis chart
+   * Connecting to a remote database
+Week 15: SQL Continued - Part 2
+1. Session 34: SQL Joins
+   * Introduction to SQL joins
+   * Types of Joins (Cross, inner, left, right, full outer)
+   * SQL hands-on on joins
+   * SET operations
+   * SELF join
+   * Query execution order
+   * Practice questions
+2. Session on SQL Case Study 1 – Zomato Dataset
+   * Understanding Dataset through diagram
+   * Solving SQL Questions on Zomato Dataset 
+3. Session 35: Subqueries in SQL
+   * What is Subquery
+   * Types of Subqueries
+   * Independent and Correlated subquery
+4. Session on Making a Flight Dashboard using Python and SQL
+   * How to Connect MYSQL through Python
+   * Run SQL queries with Python
+   * Creating a dynamic dashboard with Streamlit on Flights dataset
+5. Session on SQL Interview Questions – Part 1
+   * Database Server Vs Database Client
+   * Database Engines
+   * Components of DBMS
+   * What is Collation?
+   * COUNT(*) vs COUNT(col)
+   * Dealing with NULL values
+   * DELETE Vs TRUNCATE
+   * Anti joins
+   * Non-equi joins
+   * Natural joins
+   * All and Any operators
+   * Removing Duplicate Rows
+   * Metadata Queries
+Week 16: Advanced SQL
+1. Session 36: Window Functions in SQL
+   * What are Window functions?
+   * OVER(), RANK(), DENSE_RANK(), ROW_NUMBER(), FIRST_VALUE(), LAST_VALUE()
+   * Concept of Frames
+   * LAG(), LEAD()
+2. Session 37: Windows Functions Part 2
+   * Ranking
+   * Cumulative sum and average
+   * Running average
+   * Percent of total
+3. Session 37: Windows Functions Part 3
+   * Percent Change
+   * Quantiles/Percentiles
+   * Segmentation
+   * Cumulative Distribution
+   * Partition by multiple columns
+4. Session on Data Cleaning using SQL | Laptop Dataset
+   * Basic level Data Cleaning and Data exploration using SQL
+   * Why to use SQL for Data Cleaning
+   * String Data types
+   * Wildcards
+   * String Functions
+   * Data Cleaning
+5. Session on EDA using SQL | Laptop Dataset
+   * EDA on numerical and categorical columns
+   * Plotting
+   * Categorical – Categorical Analysis
+   * Numerical – Numerical Analysis
+Week 17: Descriptive Statistics
+1. Session 38: Descriptive Statistics Part 1
+   * What is Statistics?
+   * Types of Statistics
+   * Population vs Sample
+   * Types of Data
+   * Measures of central tendency
+   * Measure of Dispersion
+   * Coefficient of variation
+   * Graphs for Univariate Analysis
+   * Frequency Distribution table
+   * Graphs for bivariate Analysis
+   * Categorical – Categorical Analysis
+   * Numerical – Numerical Analysis
+   * Categorical – Numerical Analysis
+2. Session on Datetime in SQL
+   * Remaining topics of EDA using SQL (numerical - categorical,missing values, ppi, price_bracket, one hot encoding)
+   * Temporal Data types
+   * Creating and Populating Temporal Tables
+   * DATETIME Functions
+   * Datetime Formatting
+   * Type Conversation
+   * DATETIME Arithmetic
+   * TIMESTAMP VS DATETIME
+   * Case Study – Flights
+Week 18: Descriptive Statistics continued
+1. Session 39: Descriptive Statistics part 2
+   * Quantiles and Percentiles
+   * Five Number Summary
+   * Boxplots
+   * Scatterplots
+   * Covariance
+   * Correlation
+   * Correlation vs Causation
+   * Visualizing multiple variables
+2. Session 40: Probability Distribution Functions (PDF, CDF, PMF)
+   * Random Variables
+   * Probability Distributions
+   * Probability Distribution Functions and its types
+   * Probability Mass Function (PMF)
+   * Cumulative Distribution Function (CDF) of PMF
+   * Probability Density Function (PDF)
+   * Density Estimation
+   * Parametric and Non-parametric Density Estimation
+   * Kernel Density Estimate (KDE)
+   * Cumulative Distribution Function (CDF) of PDF.
+3. Session on SQL Datetime Case Study on Flights Dataset 
+4. Session on Database Design | SQL Data Types | Database Normalization
+   * Different SQL Datatypes (Numeric, Text, Datetime, Misc)
+   * Database Normalization
+   * ER Diagram
+Week 19: Probability Distributions
+1. Session 41: Normal Distribution
+   * How to use PDF in Data Science?
+   * 2D density plots
+   * Normal Distribution (importance, equation, parameter, intuition)
+   * Standard Normal Variate (importance, z-table, empirical rule)
+   * Properties of Normal Distribution
+   * Skewness
+   * CDF of Normal Distribution
+   * Use of Normal Distribution in Data Science
+2. Session 42: Non-Gaussian Probability Distributions
+   * Kurtosis
+   * Excess Kurtosis and Types of kurtosis
+   * QQ plot
+   * Uniform Distribution
+   * Log-normal distribution
+   * Pareto Distribution
+   * Transformations
+      1. Mathematical Transformation
+      2. Function Transformer
+      3. Log Transform
+      4. Reciprocal Transform / Square or sqrt Transform
+      5. Power Transformer
+      6. Box-Cox Transform
+      7. Yeo-Johnson Transformation
+3. Session on views and User Defined Functions in SQL
+   * What are views?
+   * Types of views
+   * User Defined Functions (Syntax, Examples, Benefits)
+4. Session on Transactions and Stored Procedures
+   * Stored Procedures
+   * Benefits of using stored procedures
+   * Transactions (Commit, rollback, savepoint)
+   * ACID properties of a Transaction
+Week 20: Inferential Statistics
+1. Session 43: Central Limit Theorem
+   * Bernouli Distribution
+   * Binomial Distribution
+      1. PDF formula
+      2. Graph of PDF
+      3. Examples
+      4. Criteria
+      5. Application in Data Science
+   * Sampling Distribution
+   * Intuition of Central Limit Theorem (CLT)
+   * CLT in code
+   * Case study
+   * Assumptions of making samples
+2. Session on Central Limit Theorem Proof
+3. Session 44: Confidence Intervals
+   * Population vs Sample
+   * Parameter vs Estimate
+   * Point Estimate
+   * Confidence Interval
+      1. Ways to Calculate CI
+      2. Applications of CI
+      3. Assumptions of z-procedure
+      4. Formula and Intuition of Z-procedure
+      5. Interpreting CI
+      6. T-procedure and t-distribution
+      7. Confidence Intervals in code
+Week 21: Hypothesis Testing
+1. Session 45: Hypothesis Testing (Part 1)
+   * Key idea of hypothesis testing
+   * Null and alternate hypothesis
+   * Steps in Hypothesis testing
+   * Performing z-test
+   * Rejection region and Significance level
+   * Type-1 error and Type-2 Error
+   * One tailed vs. two tailed test
+   * Applications of Hypothesis Testing
+   * Hypothesis Testing in Machine Learning
+2. Session 46: Hypothesis Testing (Part 2) | p-value and t-tests
+   * What is p-value?
+   * Interpreting p-value
+   * P-value in the context of z-test
+   * T-test
+   * Types of t-test
+      1. Single sample t-Test
+      2. Independent 2-sample t-Test
+      3. Paired 2 sample t-test
+      4. Code examples of all of the above
+3. Session on Chi-square test
+   * Chi–square distribution (Definition and Properties)
+   * Chi-square test
+   * Goodness of fit test (Steps, Assumptions, Examples)
+   * Test for Independence (Steps, Assumptions, Examples)
+   * Applications in machine learning
+4. Session on ANOVA
+   * Introduction
+   * F-distribution
+   * One-way ANOVA
+      1. Steps
+      2. Geometric Intuition
+      3. Assumptions
+      4. Python Example
+   * Post – Hoc test
+   * Why t-test is not used for more than 3 categories?
+   * Applications in Machine Learning
+Week 22: Linear Algebra
+1. Session on Tensors | Linear Algebra part 1(a)
+   * What are tensors?
+   * 0D, 1D and 2D Tensors
+   * Nd tensors
+   * Rank, axes and shape
+   * Example of 1D, 2D, 3D, 4D, 5D tensors
+2. Session on Vectors | Linear Algebra part 1(b)
+   * What is Linear Algebra?
+   * What are Vectors?
+   * Vector example in ML
+   * Row and Column vector
+   * Distance from Origin
+   * Euclidean Distance
+   * Scalar Addition/Subtraction (Shifting)
+   * Scalar Multiplication/Division [Scaling]
+   * Vector Addition/Subtraction
+   * Dot product
+   * Angle between 2 vectors
+   * Equation of a Hyperplane
+3. Linear Algebra Part 2 | Matrices (computation)
+   * What are matrices?
+   * Types of Matrices
+   * Matrix Equality
+   * Scalar Operation
+   * Matrix Addition, Subtraction, multiplication 
+   * Transpose of a Matrix
+   * Determinant
+   * Minor 
+   * Cofactor
+   * Adjoint
+   * Inverse of Matrix
+   * Solving a system of Linear Equations
+4. Linear Algebra Part 3 | Matrices (Intuition)
+   * Basis vector
+   * Linear Transformations
+   * Linear Transformation in 3D
+   * Matrix Multiplication as Composition
+   * Test of Commutative Law
+   * Determinant and Inverse
+   * Transformation for non-square matrix?
+   * Why only square matrix has inverse?
+   * Why inverse is possible for non-singular matrices only?
+Week 23: Linear Regression
+1. Session 48: Introduction to Machine Learning
+   * About Machine Learning (History and Definition)
+   * Types of ML
+      1. Supervised Machine Learning
+      2. Unsupervised Machine Learning
+      3. Semi supervised Machine Learning
+      4. Reinforcement Learning
+   * Batch/Offline Machine Learning
+   * Disadvantages of Batch learning
+   * Online Machine Learning
+      1. Importance
+      2. When to use and how to use
+      3. Learning Rate
+      4. Out of core learning
+      5. Disadvantages
+   * Batch vs Online learning
+   * Instance based learning
+   * model-based learning
+   * Instance vs model-based learning
+   * Challenges in ML
+      1. Data collection
+      2. Insufficient/Labelled data
+      3. Non-representative data
+      4. Poor quality data
+      5. Irrelevant features
+      6. Overfitting and Underfitting
+      7. Offline learning
+      8. Cost
+   * Machine Learning Development Life-cycle
+   * Different Job roles in Data Science
+   * Framing a ML problem | How to plan a Data Science project
+2. Session 49: Simple Linear regression
+   * Introduction and Types of Linear Regression
+   * Simple Linear Regression
+   * Intuition of simple linear regression
+   * Code example
+   * How to find m and b?
+   * Simple Linear Regression model code from scratch
+   * Regression Metrics
+      1. MAE
+      2. MSE
+      3. RMSE
+      4. R2 score
+      5. Adjusted R2 score
+3. Session 50: Multiple Linear Regression
+   * Introduction to Multiple Linear Regression (MLR)
+   * Code of MLR
+   * Mathematical Formulation of MLR
+   * Error function of MLR
+   * Minimizing error
+   * Error function continued
+   * Code from scratch
+4. Session on Optimization the Big Picture
+   * Mathematical Functions
+   * Multivariable Functions
+   * Parameters in a Function
+   * ML models as Mathematical Function
+   * Parametric Vs Non-Parametric ML models
+   * Linear Regression as a Parametric ML model
+   * Loss Function
+   * How to select a good Loss Function?
+   * Calculating Parameters from a Loss Function
+   * Convex And Non-Convex Loss Functions
+   * Gradient Descent
+   * Gradient Descent with multiple Parameters
+   * Problems faced in Optimization
+   * Other optimization techniques
+5. Session on Differential Calculus
+   * What is differentiation?
+   * Derivative of a constant
+   * Cheatsheet
+   * Power Rule
+   * Sum Rule
+   * Product Rule
+   * Quotient Rule
+   * Chain Rule
+   * Partial Differentiation
+   * Higher Order Derivatives
+   * Matrix Differentiation
+
+
+Week 24: Gradient Descent
+1. Session 51: Gradient descent from scratch
+   * What is Gradient Descent?
+   * Intuition
+   * Mathematical Formulation
+   * Code from scratch
+   * Visualization 1
+   * Effect of Learning Rate
+   * Adding m into the equation
+   * Effect of Loss function
+   * Effect of Data
+2. Session 52 (part 1): Batch Gradient Descent
+   * Types of Gradient Descent
+   * Mathematical formulation
+   * Code from scratch
+3. Session 52 (part 2): Stochastic Gradient Descent
+   * Problems with Batch GD
+   * Stochastic GD
+   * Code from scratch
+   * Time comparison
+   * Visualization
+   * When to use stochastic GD
+   * Learning schedules
+   * Sklearn documentation
+4. Session 52 (part 3): Mini-batch Gradient Descent
+   * Introduction
+   * Code
+   * Visualization
+5. Doubt Clearance session on Linear Regression
+Week 25: Regression Analysis
+1. Session on Regression Analysis (Part 1)
+   * What is Regression Analysis?
+   * Why Regression Analysis is required?
+   * What’s the Statistic connection with Regression analysis?
+   * Inference vs Prediction
+   * Statsmodel Linear Regression
+   * TSS, RSS, and ESS
+   * Degree of freedom
+   * F-statistic and Prob(F-statistic)
+2. Session on Regression Analysis (Part 2)
+   * F -test for overall significance
+   * R-squared (Goodness of fit)
+   * Adjusted R-squared
+   * T – Statistic
+   * Confidence Intervals for Coefficients
+3. Session on Polynomial Regression
+   * Why we need Polynomial Regression?
+   * Formulation of Polynomial Regression
+   * Polynomial Regression in python
+4. Session on Assumptions of Linear Regression
+   * Assumptions of Linear Regression
+      1. Linearity
+      2. Normality of Residuals
+      3. Homoscedasticity
+      4. No Autocorrelation
+      5. No or little Multicollinearity
+   * What happens when these assumptions failed?
+   * How to check each of these assumptions?
+   * What to do when an assumption fails?
+   * Standard Error
+5. Session 53: Multicollinearity
+   * What is multicollinearity?
+   * When is Multicollinearity bad?
+   * Multicollinearity (Mathematically)
+   * Perfect and non-perfect Multicollinearity
+   * Types of multicollinearity
+   * How to detect Multicollinearity
+   * Correlation
+   * VIF (Variance Inflation Factor)
+   * Condition Number
+   * How to remove Multicollinearity
+Week 26: Feature Selection
+1. Session 54: feature Selection Part 1
+   * What is Feature Selection?
+   * Why to do Feature Selection?
+   * Types of Feature Selection
+   * Filter based Feature Selection
+      1. Duplicate Features
+      2. Variance Threshold
+      3. Correlation
+      4. ANOVA
+      5. Chi-Square
+      6. Advantages and Disadvantages
+2. Session 55: Feature Selection Part 2
+   * Wrapper method
+   * Types of wrapper method
+   * Exhaustive Feature Selection/Best Subset Selection
+   * Sequential Backward Selection/Elimination
+   * Sequential Forward Selection
+   * Advantages and Disadvantages
+3. Session on Feature Selection part 3
+   * Embedded Methods
+      1. Linear Regression
+      2. Tree based models
+      3. Regularized Models
+   * Recursive Feature Elimination
+   * Advantages and Disadvantages
+Week 27: Regularization
+1. Session on Regularization Part 1 | Bias-Variance Tradeoff
+   * Why we need to study Bias and Variance
+   * Expected Value and Variance
+   * Bias and Variance Mathematically
+2. Session on Regularization Part 1 | What is Regularization
+   * Bias Variance Decomposition
+   * Diagram
+   * Analogy
+   * Code Example
+   * What is Regularization?
+   * When to use Regularization?
+3. Ridge Regression Part 1
+   * Types of Regularization
+   * Geometric Intuition
+   * Sklearn Implementation
+4. Ridge Regression Part 2
+   * Ridge Regression for 2D data
+   * Ridge Regression for nD data
+   * Code from scratch
+5. Ridge Regression Part 3
+   * Ridge regression using Gradient Descent
+6. Ridge Regression Part 4
+   * 5 Key Understandings
+      1. How do the coefficients get affected?
+      2. Higher values are impacted more
+      3. Bias variance tradeoff
+      4. Contour plot
+      5. Why is it called Ridge?
+7. Lasso Regression
+   * Intuition
+   * Code example
+   * Lasso regression key points
+8. Session on Why Lasso Regression creates Sparsity?
+9. ElasticNet Regression
+   * Intuition
+   * Code example
+10. Doubt Clearance session on regularization
+Week 28: K Nearest Neighbors
+1. Session on K nearest Neighbors Part 1
+   * KNN intuition
+   * Code Example
+   * How to select K?
+   * Decision Surface
+   * Overfitting and Underfitting in KNN
+   * Limitations of KNN
+2. Session on coding K nearest Neighbors from scratch
+3. Session on How to draw Decision Boundary for Classification problems
+4. Session on Advanced KNN Part 2
+   * KNN Regressor
+   * Hyperparameters
+   * Weighted KNN
+   * Types of Distances (Euclidean and Manhattan)
+   * Space and Time Complexity
+   * KD-Tree
+5. Classification Metrics Part 1
+   * Accuracy
+   * Accuracy of multi-classification problems
+   * How much accuracy is good?
+   * Problem with accuracy
+   * Confusion matrix
+   * Type 1 error
+   * Type 2 error
+   * Confusion matrix of multi-classification problems
+   * When accuracy is misleading
+6. Classification Metrics Part 2
+   * Precision
+   * Recall
+   * F1 score
+   * Multi class Precision and Recall
+   * Multi class F1 score
+Week 29: PCA
+1. Session on Curse of Dimensionality
+2. PCA part 1
+   * Introduction
+   * Geometric Intuition of PCA
+   * Why is Variance important?
+3. PCA part 2
+   * Mathematical Problem formulation
+   * What is covariance and covariance matrix?
+   * Matrices as Linear Transformation
+   * EigenVectors and Eigenvalues
+   * Step by step solution of PCA
+   * How to transform points?
+   * PCA step-by-step code in python
+4. PCA Part 3
+   * Practical example on MNIST dataset
+   * PCA demo with sklearn
+   * Visualization
+   * What is explained variance
+   * Find optimum number of Principal components
+   * When PCA does not work?
+5. Session on Eigen vectors and Eigen Values
+   * What are Matrices?
+   * What are Eigen Vectors and Eigen Values?
+   * Intuition – Axis of rotation
+   * How to calculate Eigen Vectors and Eigen Values
+   * Properties
+   * Eigen Vectors in PCA
+6. Session on Eigen Decomposition and PCA variants
+   * Types of PCA variants
+   * What are some special matrices?
+      1. Diagonal Matrix
+      2. Orthogonal Matrix
+      3. Symmetric Matrix
+   * Matrix as Linear Transformation Visualization tool
+   * Matrix Composition
+   * Matrix Decomposition
+   * Eigen decomposition
+   * Eigen decomposition of Symmetric Matrix (Spectral Decomposition)
+   * Advantages of Eigen decomposition
+   * Kernel PCA
+   * Code example of Kernel PCA
+7. Session on eigen Singular Value Decomposition (SVD)
+   * Intuition of Non-Square Matrix
+   * Rectangular Diagonal Matrix
+   * What is SVD
+   * Applications of SVD
+   * SVD - The intuition of the mathematical equation
+   * Relationship with Eigen Decomposition
+   * Geometric Intuition of SVD
+   * How to calculate SVD
+   * SVD in PCA
+
+
+Week 30: Model Evaluation & Selection
+1. ROC Curve in Machine Learning
+   1. ROC AUC Curve and it’s requirements
+   2. Confusion matrix
+   3. True Positive Rate (TPR)
+   4. False Positive Rate (FPR)
+   5. Different cases of TPR & FPR
+2. Session on Cross Validation
+   1. Why do we need Cross Validation?
+   2. Hold-out approach
+   3. Problem with Hold-out approach
+   4. Why is the Hold-out approach used?
+   5. Cross Validation
+      1. Leave One Out Cross Validation (LOOCV)
+         1. Advantages
+         2. Disadvantages
+         3. When to use
+      2. K-Fold Cross Validation
+         1. Advantages
+         2. Disadvantages
+         3. When to use
+      3. Stratified K-Fold CV
+3. Session on Data Leakage
+   1. What is it and what is the problem
+   2. Ways in which Data Leakage can occur
+   3. How to detect
+   4. How to remove Data Leakage
+   5. Validation set
+4. Session on Hyperparameter Tuning
+   1. Parameter vs Hyperparameter
+   2. Why the word “hyper” in the term
+   3. Requirements
+      1. Grid Search CV
+      2. Randomized Search CV
+   4. Can this be improved?
+Week 31: Naive Bayse
+1. Crash course on Probability Part 1
+   1. 5 important terms in Probability
+      1. Random Experiment
+      2. Trials
+      3. Outcome
+      4. Sample Space
+      5. Event
+   2. Some examples of these terms
+   3. Types of events
+   4. What is probability
+   5. Empirical vs Theoretical probability
+   6. Random variable
+   7. Probability distribution of random variable
+   8. Mean of 2 random variable
+   9. Variance of Random variable
+2. Crash course on Probability Part 2
+   1. Venn diagrams
+   2. Contingency table
+   3. Joint probability
+   4. Marginal probability
+   5. Conditional probability
+   6. Intuition of Conditional Probability
+   7. Independent vs Dependent vs Mutually Exclusive Events
+   8. Bayes Theorem
+3. Session 1 on Naive Bayes
+   1. Intuition
+   2. Mathematical formulation
+   3. How Naive Bayes handles numerical data
+   4. What if data is not Gaussian
+   5. Naive Bayse on Textual data
+4. Session 2 on Naive Bayes
+   1. What is underflow in computing
+   2. Log Probabilities
+   3. Laplace Additive Smoothing
+   4. Bias Variance Trade off
+   5. Types
+      1. Gaussian Naive Bayes
+      2. Categorical Naive Bayes
+      3. Multinomial Naive Bayes
+5. Session 3 on Naive Bayes
+   1. Probability Distribution related to Naive Bayes
+      1. Bernoulli Distribution
+      2. Binomial Distribution
+      3. Categorical distribution / Multinoulli distribution
+      4. Multinomial Distribution
+      5. Why do we need these distributions?
+   2. Categorical Naive Bayes
+   3. Bernoulli Naive Bayes
+   4. Multinomial Naive Bayes
+   5. Out of Core Naive Bayes
+6. End to End Project | Email Spam Classifier 
+
+
+Week 32 : Logistics Regression 
+1. Session 1 on Logistic Regression
+1. Introduction
+2. Some Basic Geometry
+3. Classification Problem
+i. Basic Algorithm
+ii. Updation in Basic Algorithm
+4. Sigmoid Function
+5. Maximum Likelihood
+6. Log Loss
+7. Gradient Descent
+8. summary
+2. Session on Multiclass Classification using Logistic Regression
+1. What is Multiclass Classification
+2. How Logistic Regression handles Multiclass Classification Problems.
+3. One vs Rest (OVR) Approach
+i. Intuition
+ii. Code
+4. SoftMax Logistic Regression Approach
+i. SoftMax Function
+ii. Code
+5. When to use what?
+6. Tasks
+3. Session on Maximum Likelihood Estimation
+1. Recap
+2. Some Examples
+i. Example 1 - Coin Toss 
+ii. Example 2 - Drawing balls from bag
+iii. Example 3 - Normal Distribution
+3. Probability Vs Likelihood
+4. Maximum Likelihood Estimation
+5. MLE for Normal Distribution
+6. MLE in Machine Learning
+7. MLE in Logistic Regression
+8. Some Important Questions
+4. Session 3 on Logistic Regression
+   1. Maximum Likelihood in Logistic Regression
+   2. FAQ on MAE (Maximum Likelihood Estimation)
+      1. Is MLE a general concept applicable to all ML algorithms?
+      2. How is MLE related to the concept of loss functions?
+      3. Why does the loss function exist, why don’t we maximize likelihood?
+      4. Why study about maximum likelihood at all?
+   3. An interesting task for you
+   4. Assumptions of Logistics Regression
+   5. Odds and Log(Odds)
+   6. Another interpretation of Logistic Regression
+   7. Polynomial Features
+   8. Regularization in Logistic Regression
+5. Logistic Regression Hyperparameters
+
+
+Week 33 : Support Vector Machines (SVM)
+1. SVM Part 1 - Hard Margin SVM
+   1. Introduction
+   2. Maximum Margin Classifier
+   3. Support Vectors
+   4. Mathematical Formulation
+   5. How to solve this?
+   6. Prediction
+   7. Coding Example
+   8. Problems with Hard Margin SVM
+2. SVM Part 2 | Soft Margin SVM
+   1. Problems with Hard Margin SVM
+   2. Slack Variable
+   3. Soft Margin SVM
+   4. Introduction of C
+   5. Bias-Variance Trade Off
+   6. Code Example
+   7. Relation with Logistic Regression
+3. Session on Constrained Optimization Problem
+   1. Problem with SVC
+   2. Kernel’s Intuition
+   3. Coding examples of Kernel
+   4. Types of Kernels
+   5. Why is it called Trick?
+   6. Mathematics if SVM
+4. Session on SVM Dual Problem
+1. SVM in n Dimensions
+2. Constrained Optimization Problems 
+3.  Karush Kuhn Tucker Conditions 
+4.  Concept of Duality
+5.  SVM Dual Problem
+6.  Dual Problem Derivation
+7. Observations
+5. Session on Maths Behind SVM Kernels
+1. SVM Dual Formulation
+2. The Similarity Perspective
+3.  Kernel SVM
+4.  Polynomial Kernel
+   1. Trick
+   2. What about the other Polynomial terms
+5.  RBF Kernel
+   1.  Local Decision Boundary
+   2.  Effect of Gamma
+6.  Relationship Between RBF and Polynomial К...
+7. Custom Kernels
+   1. String kernel
+   2. Chi-square kernel
+   3. Intersection kernel
+   4. Hellinger's kernel
+   5. Radial basis function network (RBFN) kernel 
+   6. Spectral kernel
+Extra Sessions - Feature Engineering
+1. Session on Handling Missing Values Part - 1
+1. Feature Engineering
+   1. Feature Transformation
+   2. Feature Construction
+   3. Feature Extraction
+   4. Feature Selection
+2. Types of Missing Values
+   1. Missing Completely at random
+   2. Missing at Random
+   3. Missing Not at Random
+3. Techniques for Handling Missing Values
+   1. Removing Missing Values
+   2. Imputation
+4. Complete Case Analysis
+2. Session 2 on Handling Missing Data
+1. Univariate Imputation - Numerical Data
+   1. Mean Imputation
+   2. Median Imputation
+2. Univariate Imputation - Arbitrary Value & End Distribution Value
+3. Univariate Imputation - Categorical Data
+   1. Mode Imputation
+   2. Missing Category Imputation
+4. Univariate Imputation - Random (Numerical + Categorical)
+5. Missing Indicator
+3. Session 3  on Handling Missing Data - Multivariate Imputation
+   1. KNN Imputer
+      1. Steps in KNN Imputation
+      2. Advantages and Disadvantages in KNN Imputation
+   2. Iterative Imputer
+      1. MICE
+      2. When To Use
+      3. Advantages and Disadvantages
+      4. Demonstration of MICE algorithm
+      5. Steps involved in Iterative Imputer
+      6. Important parameter in Iterative Imputer
+        
+Week 34 : Decision Trees
+1. Session 1 on Decision Tree
+   1. Introduction
+   2. Intuition behind DT
+   3. Terminology in Decision Tree
+   4. The CART Algorithm - Classification
+   5. Splitting Categorical Features
+   6. Splitting Numerical Features
+   7. Understanding Gini Impurity?
+   8. Geometric Intuition of DT
+2. Session 2 on Decision Tree
+   1. CART for Regression
+   2. Geometric Intuition of CART
+   3. How Prediction is Done
+   4. Advantages & Disadvantages of DT
+   5. Project Discussion - Real Estate 
+3. Session 3 on Decision Tree
+   1. Feature Importance
+   2. The Problem of Overfitting
+   3. Why Overfitting happens
+   4. Unnecessary nodes
+   5.  Pruning & its types
+      1.  Pre-pruning
+      2.  Post Pruning
+   6. Cost Complexity Pruning
+
+
+4. Session on Decision Tree Visualization
+   1. dtreeviz Demo - Coding
+
+
+Week 35 : Ensemble Methods - Introduction
+1. Introduction to Ensemble Learning
+   1. Intuition
+   2. Types of Ensemble Learning
+   3. Why it works?
+   4. Benefits of Ensemble
+   5. When to use Ensemble
+2. Bagging Part 1 - Introduction
+1. Core Idea
+2. Why use Bagging?
+3. When to use Bagging?
+4. Code Demo
+3. Bagging Part 2 - Classifier
+   1. Intuition through Demo app
+   2. Code Demo
+4. Bagging Part 3 - Regressor
+   1. Core Idea
+   2. Intuition through demo web app
+   3. Code Demo
+5. Random Forest : Session 1
+   1. Introduction to Random Forest
+   2. Bagging
+   3. Random Forest Intuition
+   4. Why Random Forest Works?
+   5. Bagging vs. Random Forest
+   6. Feature Importance
+6. Random Forest : Session 2
+   1. Why Ensemble Techniques work?
+   2. Random Forest Hyperparameters
+   3. OOB Score
+   4. Extremely Randomized Trees
+   5. Advantages and Disadvantages of Random Forest
+Week 36 : Gradient Boosting
+1. Gradient Boosting : Session 1
+   1. Boosting
+   2. What is Gradient Boosting
+   3. How
+   4. What
+   5. Why
+2. Gradient Boosting : Session 2
+   1. How Gradient Boosting works?
+   2. Intuition of Gradient Boosting
+   3. Function Space vs. Parameter Space
+   4. Direction of Loss Minimization
+   5. How to update the function
+   6. Iterate
+   7. Another perspective of Gradient Boosting
+   8. Difference between Gradient Boosting and Gradient Descent
+3. Gradient Boosting : Session 3 (Classification - 1)
+   1. Classification vs. Regression
+   2. Prediction
+4. Gradient Boosting for Classification - 2 | Geometric Intuition
+1. Geometric Intuition
+5. Gradient Boosting for Classification - 3 | Math Formulation
+1. Step 0 : Loss Function
+2. Step 1 : Minimize Loss Function to get  F0(x)
+3. Step 2 : 
+   1. Pseudo Residuals
+   2. Training Regression Tree
+   3. Compute Lambda for all leaf nodes 
+   4. Update the Model
+4. Step 3 : Final Model
+5. Log(odds) vs Probability
+Capstone Project
+1. Session 1 on Capstone Project | Data Gathering
+   1. Project overview in details
+   2. Gather data for the project
+   3. Details of the data
+2. Session 2 on Capstone Project | Data Cleaning
+1. Merging House and Flats Data
+2. Basic Level Data Cleaning
+3. Session 3 on Capstone Project | Feature Engineering
+   1. Feature Engineering on Columns:
+      1. additionalRoom
+      2. areaWithType
+      3. agePossession
+      4. furnishDetails
+      5. features : luxury Score
+4. Session 4 on Capstone Project | EDA
+   1. Univariate Analysis
+   2. PandasProfiling
+   3. Multivariate Analysis
+5. Session 5 on Capstone Project | Outlier Detection and Removal
+   1. Outlier Detection And Removal
+6. Session 6 on Capstone Project | Missing Value Imputation
+   1. Outlier Detection and Removal on area and bedroom
+   2. Missing Value Imputation
+7. Session 7 on Capstone Project | Feature Selection
+   1. Feature Selection
+      1. Correlation Technique
+      2. Random Forest Feature Importance
+      3. Gradient Boosting Feature Importance
+      4. Permutation Importance
+      5. LASSO
+      6. Recursive Feature Elimination
+      7. Linear Regression with Weights
+      8. SHAP (Explainable AI)
+   2. Linear Regression - Base Model
+      1. One-Hot Encoding
+      2. Transformation
+      3. Pipeline for Linear Regression
+   3. SVR
+8. Session 8 on Capstone Project | Model Selection & Productionalization
+1. Price Prediction Pipeline
+   1. Encoding Selection
+      1. Ordinal Encoding
+      2. OHE
+      3. OHE with PCA
+      4. Target Encoding
+   2. Model Selection
+2. Price Prediction Web Interface -Streamlit
+9. Session 9 on Capstone Project | Building the Analytics Module
+1. geo map 
+2. word cloud amenities
+3. scatterplot -> area vs price 
+4. pie chart bhk filter by sector 
+5. side by side boxplot bedroom price 
+6. distplot of price of flat and house 
+10. Session 10 on Capstone Project | Building the Recommender System
+1. Recommender System using TopFacilities
+2. Recommender System using Price Details
+3. Recommender System using LocationAdvantages
+11. Session 11 on Capstone Project | Building the Recommender System Part 2
+   1. Evaluating Recommendation Results
+   2. Web Interface for Recommendation (Streamlit)
+12. Session 12 on Capstone Project | Building the Insights Module
+13. Session 13 on Capstone Project | Deploying the application on AWS
+
+
+------------------------------------------------------------------------
+XGBoost (Extreme Gradient Boosting)
+1. Introduction to XGBoost
+* Introduction
+* Features
+   * Performance
+   * Speed
+   * Flexibility
+2. XGBoost for Regression
+   1. Regression Problem Statement
+   2. Step-by-Step Mathematical Calculation
+3. XGBoost for Classification
+   1. Classification Problem Statement
+   2. Step-by-Step Mathematical Calculation
+4. The Complete Maths of XGBoost
+   1. Prerequisite & Disclaimer 
+   2. Boosting as an Additive Model
+   3. XGBoost Loss Function
+   4. Deriving Objective Function
+   5. Problem With Objective Function and Solution
+      1. The Taylor series
+      2. Applying Taylor Series
+      3. Simplification
+   6. Output Value for Regression
+   7. Output Value for Classification
+   8. Derivation of Similarity Score
+   9. Final Calculation of Similarity Score
+
+
+—------------------------- DSMP 1.0 Ends ---------------------------------
+MLOps Curriculum (By Pranjal Sir)
+Week 1: Introduction to MLOps and ML-DLC
+Introduction to MLOps: Understanding what is MLOps and why is it an important field
+Maintainable Code Development: Understanding version control and using tools like Git
+Challenges in ML Model Deployment: Overview of ML life cycle stages, challenges in model deployment, approaches to deploying ML models
+MLOps Best Practices: Industry standards and guidelines (high level overview of the next 8 weeks)
+
+
+1. Session 1: Introduction to MLOps
+   1. Reality of AI in the market
+   2. Introduction
+      1. Standard ML Cycle
+      2. What is DevOps?
+      3. What is MLOPs?
+   3. Machine Learning Lifecycle
+   4. Introduction to Version Control
+      1. Key aspects of Version Control
+      2. Types of Version Control Systems
+   5. Next two weeks plan
+2. Session 2: Version Control
+   1. Using GitHub for Version Control
+      1. What is GitHub?
+      2. Setting Up GitHub
+      3. Creating a Repository
+      4. Cloning a Repository
+      5. Making Changes
+      6. Committing Changes
+      7. Pushing Changes
+      8. Branching
+      9. Pull Requests
+      10. Collaborating with Others
+   2. Revisiting ML Cycle
+      1. ML Pipeline Example
+   3. Industry Trivia
+3. Doubt Clearance Session 1
+   1. Create an Account on GitHub
+   2. GitHub using GUI: VsCode, Github Desktop
+   3. Assignment on GitHub Fundamentals
+   4. Git Push using CLI
+   5. Solving Error: Head is not in Sync
+   6. 55:10: Touch command
+   7. 
+
+Week 2: ML Reproducibility, Versioning, and Packaging
+ML Reproducibility: Ensuring consistent results in ML experiments.
+Model Versioning: Tools like MLflow.
+Packaging and dependency management: Developing deployable ML packages with dependency management. Example - DS-cookie-cutter
+Data Versioning and Management: Tools like DVC (Data Version Control). [Optional]
+
+
+4. Session 3: Reproducibility
+   1. Story
+   2. Industry Tools
+   3. Cookiecutter
+      1. Step 1: Install the Cookiecutter Library and start a project
+      2. Step 2: Explore the Template Structure
+      3. Step 3: Customize the Cookiecutter Variables
+      4. Step 4: Benefits of Using Cookiecutter Templates in Data Science
+5. Session 4: Data Versioning Control
+   1. Introduction
+   2. Prerequisites
+   3. Setup
+      1. Step 1: Initialize a Git repository
+      2. Step 2: Set up DVC in your project
+      3. Step 3: Add a dataset to your project
+      4. Step 4: Commit changes to Git
+      5. Step 5: Create and version your machine learning pipeline
+      6. Step 6: Track changes and reproduce experiments
+6. Doubt Clearance Session 2
+   1. Assignment Solution on DVC: 10:19
+   2. Doubt Clearance
+      1. DVC with G-Drive 42:50
+      2. DVC Setup Error: 48:45
+      3. Containerization with Virtual Environment 49:40
+      4. Create Version and ML Pipeline: 56:50
+      5. DVC Checkout 57:50
+      6. How to which ID(commit) to go to - through commit messages? 1:00:00
+      7. What is Kubernetes?
+      8. Not able to understand by reading documentation 1:04:30
+      9. Getting no of commits 11k+ 1:09:40
+Week 3: End-to-end ML lifecycle management
+Setting up MLFlow: Understand MLFlow and its alternatives in depth.
+Life cycle components: Projects, model registry, performance tracking.
+Best Practices for ML Lifecycle
+7. Session 5 - ML Pipelines and Experimentation Tracking
+   1. Doubts
+      1. DVC Track by Add
+      2. Git clone with SSH vs HTTPS
+   2. Recap
+   3. Pipelines + DVC + Experimentation Tracking
+   4. MLFlow
+8. Session 6 on MLOPs
+   1. Recap of Pipelines - Credit Card Example
+   2. Writing dvc.yml File
+   3. Reproducibility after Data Changes
+   4. Reproducibility after Params Changes
+   5. ML end-2-end Pipeline
+   6. Tools for different Stages of Pipeline
+9. Doubt Clearance Session 3
+   1. Assignment Solution
+   2. File not found error - Joblib/Data
+   3. Models Not Found error
+   4. Get familiar With Terminal - DVC –help
+   5. DVC Repro vs DVC Exp
+
+
+Week 4: Containerisation and Deployment Strategies
+Containerization: Introduce docker internals and usage.
+Distributed infrastructure: Introduce Kubernetes and basic internal components.
+Online vs. Offline Model Deployment: Kubernetes for online, and batch processing for offline. A/B testing.
+Canary Deployment and Blue/Green Strategies: Kubernetes, AWS CodeDeploy. [Optional]
+10. Session 7 Continuous Integration
+   1. Philosophy Behind CI/CD
+   2. Setting UP Github Actions for CI/CD
+      1. Workflow setup
+      2. Integrating CML for Version Control
+      3. Update settings in GitHub Actions
+         1. Setting Secret Tokens
+11. Session 8 Containerisation - Docker
+   1. Containerization
+   2. Docker
+
+
+Week 5: DAGs in MLOps
+Understanding DAGs in MLOps: Dependency management in ML pipelines.
+Building and Managing DAGs: Apache Airflow, Kubeflow Pipelines.
+Continuous Integration/ Development: Discuss tools like Github Actions
+12. Session 9 - Continuous Deployment
+   1. Recap of Continuous Integration
+   2. Continuous Delivery/ Deployment
+      1. Credit Card Project Code Example
+      2. FastApi, pydantic, joblib, uvicorn
+      3. How to write app.py
+   3. Multi Container
+13. Doubt Clearance Session 4
+   1. Assignments Solution 
+Week 6: Monitoring, Alerting, Retraining, and Rollback
+Continuous Monitoring in MLOps: Prometheus, Grafana.
+Alerting Systems
+Automated Retraining Strategies: Kubeflow Pipelines
+Rollback Design Patterns in MLOps: Feature flags, canary releases.
+14. Session 10 - Introduction to AWS
+   1. Introduction to AWS Machine Learning and MLOps Services
+      1. Prerequisite
+      2. IAM
+   2. AWS Sagemaker
+   3. Amazon S3
+   4. AWS Lambda
+   5. Amazon ECR and ECS
+   6. AWS CodePipeline and AWS CodeBuild
+   7. Components for SageMaker
+15. Session 11  - Deployment on AWS
+   1. Code Demo with Credit Card Project
+   2. Project Code explained
+      1. CI.yml file
+         1. Configuring AWS Credentials on GitHub secrets
+         2. Creating ECR Repository Getting URI
+         3. AWS Region
+      2. Pulling ECR repo to EC2 machine
+      3. How to create Workflow YML files
+      4. Connecting to EC2
+   3. Self Runner
+   4. AWS Actions
+Week 7: Scaling and Efficiency in MLOps
+AutoML and Hyperparameter Tuning: AutoML tools (e.g., Google AutoML, Sagemaker Autopilot and Azure AML).
+Data Consistency and availability: How offline development becomes a online nightmare
+Resource Management and Cost Optimization: Discuss AWS Elastic Kubernetes Service (EKS) Autoscaling, Azure Kubernetes Service (AKS) Autoscale.
+
+
+16. Session 12 - Distributed Infrastructure
+   1. Understanding Distributed Computing
+   2. Node, Communication, and Concurrency
+   3. Why Distributed Computing?
+   4. Docker and Microservices
+      1. Fundamentals of Microservices
+      2. Data Bricks Architecture as Microservice
+      3. Uber Microservices Architecture
+17. Session 13 on - Kubernetes Internals
+   1. What is Kubernetes?
+   2. Need of Kubernetes: Container orchestration system
+   3. Key Concepts
+      1. Pods
+      2. Nodes
+      3. Cluster
+      4. Control Panel
+         1. API Server
+         2. Resource Manager
+         3. Database
+      5. Deployment
+         1. Deploying with Kubectl
+
+
+18. MLOps Doubt Clearance Session 6
+   1. Week 8: Final Project
+Final Project: Implementing a Full MLOps Pipeline for a Real-world Use Case Locally
+
+
+19. Session 14  - Deployment on Kubernetes
+   1. Deployment with Kubectl
+      1. Explained Deployment yaml file
+      2. Deployment Demo
+   2. Deployment Strategies
+   3. Service and Load Balancing
+
+
+20. Session 15  - Seldon Deployments
+   1. Introduction to Sheldon
+   2. Key Features of Sheldon
+   3. Sheldon vs Competitors
+   4. Prerequisite: Kubectl and helm
+   5. Deployment
+      1. Step 1: Install Seldon Core using Helm
+      2. Step 2: Define a Simple Machine Learning Model
+      3. Step 3: Push your model to S3 or Google store
+      4. Step 4: Define a Seldon Deployment
+      5. Step 5: Deploy the Seldon Deployment
+   6. Seldon vs EKS vs K8s
+   7. Kubeflow Pipelines
+      1. KubeFlow Pipeline Overview with MNIST Dataset 
+   8. Apache Airflow
+21. MLOps Doubt Clearance Session 7
+   1. TBD
+
+
+Week 9: ML Technical Debt
+Understanding and Managing ML Technical Debt: Identifying and addressing technical debt in ML projects.
+
+
+22. Session 16 - Monitoring & Alerting
+   1. TBD
+23. Session 17 - Rollout & Rollback Strategies
+   1. TBD
+24. Session on MLOps Interview Questions
+25. Session 18 - ML Technical Debt
+   1. TBD
+26. MLOps Doubt Clearance Session 8
+Unsupervised Learning
+1. KMeans Clustering
+   1. Session 1 on KMeans Clustering
+      1. Plan of Attack (Getting Started with Clustering)
+      2. Types of ML Learning
+      3. Applications of Clustering
+      4. Geometric Intuition of K-Means
+      5. Elbow Method for Deciding Number of Clusters
+         1. Code Example
+         2. Limitation of Elbow Method
+      6. Assumptions of KMeans
+      7. Limitations of K Means
+   2. Session 2 on KMeans Clustering
+      1. Recap of Last class
+      2. Assignment Solution
+      3. Silhouette Score
+      4. Kmeans Hyperparameters
+         1. Number of Clusters(k)
+         2. Initialization Method (K Means++)
+         3. Number of Initialization Runs (n_init)
+         4. Maximum Number of Iterations (max_iter)
+         5. Tolerance (tol)
+         6. Algorithm (auto, full, ..)
+         7. Random State
+      5. K Means ++
+   3. Session 3 on KMeans Clustering
+      1. K-Means Mathematical Formulation (Loyd’s Algorithm)
+      2. K-Means Time and Space Complexity
+      3. Mini Batch K Means
+      4. Types of Clustering
+         1. Partitional Clustering
+         2. Hierarchical Clustering
+         3. Density Based Clustering
+         4. Distribution/Model-based Clustering
+   4. K-Means Clustering Algorithms from Scratch in Python
+      1. Algorithms implementation from Scratch in Python
+2. Other Clustering Algorithms
+   1. Session on DBSCAN
+      1. Why DBSCAN?
+      2. What is Density Based Clustering
+      3. MinPts & Epsilon
+      4. Core Points, Border Points & Noise Points
+      5. Density Connected Points
+      6. DBSCAN Algorithm
+      7. Code
+      8. Limitations
+      9. Visualization
+   2. Session on Hierarchical Clustering
+      1. Need of Other Clustering Methods
+      2. Introduction
+      3. Algorithm
+      4. Types of Agglomerative Clustering 
+         1. Min (Single-link) 
+         2. Max (Complete Link) 
+         3. Average 
+         4. Ward 
+      5.  How to find the ideal number of clusters
+      6. Hyperparameter
+      7. Code Example
+      8. Benefits/Limitations
+   3. Session - 1 on Gaussian Mixture Models (GMM)
+      1. The Why?
+      2. The What?
+      3. Geometric Intuition 
+      4. Multivariate Normal Distribution
+      5. Geometric Intuition 2D
+      6. EM(Expectation Minimization) Algorithm
+      7. Python Code
+   4. Session - 2 on Gaussian Mixture Models
+      1. Recap of Session 1
+      2. Covariance Types: Spherical, Diagonal, Full, and Tied
+      3. How to decide n_components?
+         1. Akaike Information Criterion (AIC)
+         2. Bayesian Information Criterion(BIC)
+         3. Likelihood Formula for GMM
+         4. Python Implementation.
+         5. Why not Silhouette Score?
+      4. Visualization
+      5. Assumptions
+      6. Advantages & Disadvantages
+      7. K Means vs GMM
+      8. DBSCAN vs GMM
+      9. Applications of GMM
+   5. Session on T-SNE
+      1. What is T-SNE?
+      2. Why learn T-SNE?
+      3. Geometric Intuition
+      4. Mathematical Formulation
+      5. Code Implementation
+1. Session 2 on T-SNE
+      1. Mathematical Formulation
+      2. Some Questions!
+         1. Why use probabilities instead of distances to calculate similarity?
+         2. Why use Gaussian distribution to calculate similarity in high dimensions?
+         3. How is variance calculated for each Gaussian distribution?
+         4. Why use T-distribution in lower dimensions?
+      3. Code Example
+      4. Hyperparameters
+         1. Perplexity
+         2. Learning Rate
+         3. Number of Iterations
+      5. Points of Wisdom
+      6. Advantages & Disadvantages
+ 
+
+
+
+
+        
+
+
+1. LDA (Linear Discriminant Analysis)
+   1. Introduction: Supervised dimensionality reduction
+   2. Algorithm Explanation: Maximizing between-class variance
+   3. Applications: Use cases in classification and visualization
+   4. Comparison: Differences and similarities with PCA
+
+
+2. Apriori
+   1. Introduction: Principles of association rule mining
+   2. Key Concepts: Support, Confidence, Lift
+   3. Algorithm Steps: Candidate generation, Pruning
+   4. Applications: Market Basket Analysis, Recommender Systems
+
+
+Feature Engineering
+1. Session on Encoding Categorical Features - 1
+   1. Feature Engineering Roadmap
+   2. What is Feature Encoding
+   3. Ordinal Encoding
+      1. Code examples in Python
+      2. Handling Rare Categories
+   4. Label Encoding
+      1. Code Example using Sklearn LabelEncoder
+   5. One Hot Encoding
+      1. Code Examples using Sklearn OneHotEncoder
+      2. Handling unknown Category
+   6. LabelBinarizer
+2. Session on Sklearn ColumnTransformer & Pipeline
+1. What is ColumnTransformer
+2. Code implementation of ColumnTransformer
+   1. OHE
+   2. Ordinal
+3. SKLearn Pipelines
+   1. Implementing multiple transformations in Pipeline
+      1. Missing value imputation
+      2. Encoding Categorical Variables
+         1. Handling rare Categories
+      3. Scaling
+      4. Feature Selection
+      5. Model building
+      6. Prediction
+3. Session on Sklearn Deep Dive
+   1. Estimators
+   2. Custom Estimators
+   3. Mixins
+   4. Transformers
+   5. Custom Transformer
+   6. Composite Transformers
+   7. Column transformer
+   8. Feature Union
+   9. Pipeline
+
+
+4. Session 2 on Encoding Categorical Features
+   1. Count and Frequency Encodes
+      1. CountEncoder Library
+   2. Binary Encoder
+   3. Target Encoder
+5. Session 1 on Discretization
+   1. Remaining topics of the last session
+      1. Weight of Evidence
+      2. Advice on when to use which Encoder
+   2. What is Discretization?
+   3. Why learn Discretization?
+      1. Reducing Overfitting
+      2. Handling Non-Linear Relationships
+      3. Handling Outliers
+      4. Better Interpretability
+      5. Model Compatibility
+   4. Disadvantages of Discretization
+
+
+6. Session 2 on Discretization
+   1. Types of Discretization
+      1. Uniform Binning
+      2. Quantile Binning
+      3. K-Means Binning
+      4. Decision Tree Based Binning
+      5. Custom Binning
+      6. Threshold Binning (Binarization)
+7. Session 1 on Handling Missing Data
+   1. Missing Values
+   2. The missingo library
+   3. Why missing values occur?
+   4. Types of missing values
+   5. How missing values impact ML models?
+   6. How to handle missing values?
+      1. Removing
+      2. Imputing
+   7. Removing Missing Data
+
+
+8. Session 2 on Handling Missing Data
+   1. Removing Missing Values
+   2.  Missing Indicator
+      1. When to use?
+      2. When to not use?
+   3. Simple Imputer - 
+      1. Mean & Median
+      2. Most Frequent
+      3. Constant
+   4. How to select the best
+9. Session 3 on Handling Missing Data - Multivariate Imputer
+   1. NaN Euclidean distance
+   2. KNN Imputer
+      1. Code and Hyperparameter
+      2. When to use and not to use.
+      3. Advantages and Disadvantages
+   3. Iterative Imputer
+      1. Code sed Parameters
+      2. When to use and not to use.
+      3. Advantages and Disadvantages
+   4. Coding Framework to compare different techniques
+
+
+10. Session on Feature Scaling
+   1. What is Feature Scaling
+      1. Why do we need feature scaling?
+      2. Which algorithms are affected if the features are not scaled?
+      3. Which algorithms are not affected?
+   2. Standardization
+11. Session 2 on Feature Scaling
+   1. Minmax Scaling
+   2. Standardization vs Minmax Scaling
+   3. Robust Scaler
+   4. Max Absolute Scaler
+   5. L2/L1 Normalization
+   6. Comparison
+   7. 12. Session 1 on Outlier Detection
+   1. What are Outliers
+   2. Types of Outliers
+   3.  Impact of Outliers
+   4.  How to deal with outliers
+   5.  Outlier Detection Techniques
+      1. Univariate 
+         1. Z-Score
+         2. IQR and BoxPlot
+         3. Problem with Univariate Techniques
+      2. Multivariate Outlier Detection
+         1. Isolation Forest
+
+
+13. Session 2 on Outlier Detection
+   1. Isolation Forest
+   2. Calculation of Analogy Score
+   3. Outlier Detection using KNN
+   4. Local vs Global Outliers
+   5. Local Outlier Factor(LOF)
+
+
+14. Session 3 on Outlier Detection
+   1. Local Outlier Factor(LOF)
+   2. DBSCAN - Code visualization
+   3. How do you access the accuracy?
+   4. When should you use which algorithm for outlier detection?
+
+
+15. Session on Feature Transformation
+   1. Why do we need transformations?
+   2. What are Feature Transformations
+      1. Problems after transformation
+   3. Log transformation
+      1. Algorithms Benefitted
+      2. When to use
+      3. When not to use
+   4. Square Root Transformation
+   5. Reciprocal Transformation
+   6. Case Study on Boston Housing Price
+   7. Square Transformation
+   8. Box-Cox Transform
+   9. Yeo Johnson Transform
+Advanced XGBoost
+Session on Revisiting XGBoost
+1. Supervised ML
+2. Stagewise Additive Modelling
+3. XGBoost Objective Function
+Session on XGBoost Regularization
+1. Recap
+2. Ways to reduce overfitting in XGBoost
+3. Parameters
+   1. Gamma
+   2. Max Depth
+   3. Num Estimators
+   4. Early Stopping
+   5. Shrinkage
+
+
+Session on XGBoost Regularization (Cont.)
+1. Parameters
+   1. Min Child Weight
+   2. Lambda (and Alpha)
+   3. Subsample
+   4. Col Subsample
+Session on XGBoost Optimizations
+1. Recap
+2. Reason for slowness in Boosting Algorithms
+3. Exact Greedy Split Finding
+4. Approximate Method For Split Finding
+5. Improvements for Optimization
+   1. Reduces No. of Splits
+   2. Calculation of G and H 
+   3. Parallel Processing
+   4. Cache Storage 
+   5. Quantiles Sketch
+   6. Weighted Quantiles Sketch
+How XGBoost Handles Missing Values
+1. Handling Missing Values
+Competitive Data Science
+
+
+1. Adaboost
+   1. Introduction: Overview and intuition of the algorithm
+   2. Components: Weak Learners, Weights, Final Model
+   3. Hyperparameters: Learning Rate, Number of Estimators
+   4. Applications: Use Cases in Classification and Regression
+
+
+2. Stacking
+   1. Introduction: Concept of model ensembling
+   2. Steps: Base Models, Meta-Model, Final Prediction
+   3. Variations: Different approaches and modifications
+   4. Best Practices: Tips for effective stacking
+
+
+3. LightGBM
+        Session 1 on Introduction to LightGBM
+1. Introduction and core features
+2. Boosting and Objective Function
+3. Histogram-Based Split finding
+4. Best-fit Tree (Leaf-wise growth strategy)
+5. Gradient-based One side sampling(GOSS)
+6. Exclusive Feature Bundling (EFB)
+            Session 2 on LightGBM (GOSS & EFB)
+1. Recap - Features and Technical Aspects
+2. Revisiting GOSS
+3. EFB
+
+
+4. CatBoost
+             Session 1 on CatBoost - Practical Introduction
+1. Introduction
+2. Advantages and Technical Aspects
+3. Practical Implementation of CatBoost on Medical Cost Dataset
+
+
+5. Advanced Hyperparameter Tuning
+   1. Strategies: Bayesian Optimization
+   2. Libraries: Optuna, Hyperopt
+   3. Practical Tips: Efficient tuning, Avoiding overfitting
+   4. Evaluation: Ensuring robust model performance
+
+
+6. Participating in a real Kaggle Competition
+   1. Getting Started: Understanding the problem, Exploring datasets
+   2. Strategy: Model selection, Preprocessing, Validation
+   3. Collaboration: Teamwork, Sharing, and Learning
+   4. Submission and Evaluation: Making effective submissions, Learning from feedback
+
+
+
+
+Miscellaneous Topics
+
+
+1. NoSQL
+   1. Introduction: Overview of NoSQL databases
+   2. Types: Document, Key-Value, Column-Family, Graph
+   3. Use Cases: When to use NoSQL over SQL databases
+   4. Popular Databases: MongoDB, Cassandra, Redis, Neo4j
+
+
+2. Model Explainability
+   1. Introduction: Importance of interpretable models
+   2. Techniques: LIME, SHAP, Feature Importance
+   3. Application: Applying techniques to various models
+   4. Best Practices: Ensuring reliable and accurate explanations
+
+
+3. FastAPI
+   1. Introduction: Modern, fast web framework for building APIs
+   2. Features: Type checking, Automatic validation, Documentation
+   3. Building APIs: Steps and best practices
+   4. Deployment: Hosting and scaling FastAPI applications
+
+
+4. AWS Sagemaker
+   1. Introduction: Fully managed service for machine learning
+   2. Features: Model building, Training, Deployment
+   3. Usage: Workflow from data preprocessing to model deployment
+   4. Best Practices: Optimizing costs and performance
+
+
+5. Handling Imbalanced Data 
+
+
+        Session 1 on Imbalanced Data - Introduction
+1. What is Imbalanced Data
+2. Problem with Imbalanced Data
+3. A Quick Detour!
+4. Why algorithms perform badly on Imbalanced Data?
+5. Why is imbalanced data a huge deal?
+6. Techniques
+   1. Under Sampling
+   2. Over Sampling
+   3. SMOTE
+   4. Hybrid Sampling
+   5. Class Weighting
+   6. Cost-Sensitive Learning
+   7. Ensemble Methods
+   8. Threshold Tuning
+        Session 2 on Imbalanced Data - Oversampling Techniques
+1. Recap
+2. Random Oversampling
+3. SMOTE
+4. Borderline SMOTE
+5. ADASYN
+
+
+        Session 2 on Imbalanced Data - Oversampling Techniques Continued
+1. SVM SMOTE
+2. SMOTENC
+3. When to use which technique.
+        Session 3 on Imbalanced Data - Undersampling Techniques
+1. Recap
+2. Random Undersampling Technique
+3. Tomek Links
+   1. What is Tomek Link
+   2. How does it work
+   3. Code
+4. Edited Nearest Neighbors
+5. Neighborhood Cleaning Rule
+6. Cluster Centroids
+
+
+Regular Expression - RegEx
+        Session 1 on Regular Expressions
+1. Introduction - What, Why
+2. What is a raw string
+3. re Module
+4. Searching Functions
+   1. match
+   2. search
+   3. findall
+   4. finditer
+5. Meta Characters - dot(.), carat(^), dollar ($) 
+6. Character Sets
+   1. Custom Character Sets
+   2. Character Ranges
+   3. Character Negation
+   4. Pre-defined Character Sets
+7. Quantifiers
+   1. Greedy
+   2. Non Greedy or Lazy
+
+
+Session 1 on Regular Expressions
+1. Grouping
+   1. Captured Groups
+   2. Named-Captured Groups
+   3. Back References
+   4. Non-capture Groups
+   5. Alternation
+2. Modifications
+   1. Split
+   2. Substitution
+   3. 3. Assertions
+   1. Look Ahead
+   2. Look Behind
+4. Flags
+        
+Interview Questions (Sessions)
+Statistics
+        Session 1 on Interview Questions on Statistics
+1. TBD
+Session 2 on Interview Questions on Statistics
+1. TBD        
+        Session 3 on Interview Questions on Statistics
+1. TBD
+Session 4 on Interview Questions on Statistics
+1. TBD
+Project Based
+        Session on Project Based Interview Questions
+1. TBD
+Machine Learning
+Session 1 on ML Interview Questions
+1. TBD
+Session 2 on ML Interview Questions
+1. TBD
+Session 3 on ML Interview Questions
+1. TBD
+Session 4 on ML Interview Questions
+1. TBD
+SQL
+Session 1 on SQL Interview Questions
+1. TBD
+Session 2 on SQL Interview Questions
+1. TBD
+Python
+        Session 1 on Python Interview Questions
+1. TBD
+MLOPs Revisited (By Nitish Sir)        
+1. Session 1 MLOps Revisited - Introduction to MLOps
+   1. What is MLOPs
+   2. Problems in Old Methods of ML Project
+      1. Cricket Score Forcast Project Explanation
+      2. The Data Problem
+      3. The code problem
+      4. The versioning problem
+      5. Automation
+      6. The Experimentation Problem
+      7. The Deployment Problem
+      8. The Drift problem
+      9. The Infrastructure Problem
+      10. The Collaboration Problem
+      11. The Legal Problem
+   3. Aspects of MLOPs
+2. Session 2 on MLOps Revisited - MLOps Tools Stack
+   1. Plan and Recap of Core Aspects
+   2. Benefits of MLOPs
+   3. Challenges in MLOPs
+   4. Prerequisites of MLOPs
+   5. MLOPs Tool Stack
+      1. End to End MLOps Platforms - AWS Sagemaker, Azure ML ..
+      2. Data Management Tools
+         1. Data Ingestion - Kafka
+         2. Data Transformation - Apache Spark
+         3. Data Storage
+
+
+3. Session 3 on MLOps Revisited - MLOps Tools Stack Part 2
+   1. Continuing With Data Management Tools
+      1. Data Pipeline - Integration (Airflow)
+      2. Data Validation
+      3. Data Versioning - DVC
+      4. Data Annotation
+   2. Data Observability
+   3. Data Security
+   4. Data Governance
+   5. Metadata Store
+   6. Feature Store
+4. Session 4 on MLOps Revisited - MLOps Tools Stack Part 3
+   1. Recap
+   2. Code Management
+   3. Model Building
+   4. AutoML
+   5. Hyperparameter Tuning
+   6. Model Explainability
+   7. Experiment Tracking
+   8. Model Registry
+5. Session 5 on MLOps Revisited - DevOps Fundamentals
+   1. Revisiting MLOPs
+   2. What are Virtual Machines
+   3. Containerization
+   4. Deploying a container
+   5. Container Orchestration
+6. Session 6 on MLOps Revisited - DevOps Contd.
+   1. Recap
+   2. Monolithic Architecture
+   3. Microservices
+   4. Kubernetes
+   5. Container Orchestration Services
+7. Session 7 on MLOps Revisited - MLOps Tool Stack - CI/CD
+   1. Continuous Integration - GitHub Action
+      1. Steps executed during the CI workflow
+      2. YAML File Explanation
+   2. Continuous Deployment
+      1. Continuous Deployment Workflow
+      2. Sample Workflow - yaml
+   3. Continuous Deployment vs Continuous Delivery
+   4. Model Serving
+8. Session 8 on MLOps Revisited - MLOps Tool Stack - Cloud Infrastructure
+   1. Cloud Platform - AWS vs GCP vs Azure
+   2. Provisioning
+      1. Provision Resources
+         1. Example Terraform Script
+      2. Configure Environments
+         1. Example Bash Script
+      3. Deploy Services
+      4. Set Up Networking
+      5. Implement Security Measures
+   3. Load Balancers
+      1. What, Why and How
+      2. Load Balancing Algorithms
+   4. Auto Scaling
+9. Session 9 on MLOps Revisited - ML Pipelines using DVC
+   1. How to Build an ML Pipeline - Tweet Emotion project
+   2. Working of DVC - dvc yaml file
+   3. Pipeline from scratch
+      1. Data ingestion
+      2. Data Preprocessing
+      3. Feature Engineering
+      4. Model Building
+      5. Model Evaluation
+10. Session 10 on MLOps Revisited - Improving ML Pipelines
+   1. Creating Params yaml
+   2. Improving Using
+      1. Function
+      2. Type Hinting
+      3. Exception Handling
+      4. Logging
+11. Session 11 on MLOps Revisited - Version Control
+   1. Steps For Starting a ML Project with MLOPs
+   2. Code Versioning - Git
+   3. Data Versioning
+      1. Why - Data Versioning?
+      2. Why Not Git for Data Versioning
+12. Session 12 on MLOps Revisited - Data Versioning using DVC
+   1. DVC Working
+   2. Step-by-Step Process for Data Versioning
+      1. Data Ingestion Project - eCommerce
+
+
+13. Session 13 on MLOPs Revisited - Pipeline x Data Versioning x AWS S3
+   1. DVC Pipeline - Data Versioning 
+      1. Emotion Detection Project (Cont.)
+      2. DVC Repro
+   2. DVC with AWS S3 storage
+      1. Step by step setup
+
+
+14. Session 14 (Part 1) on MLOps Revisited - Experiment Tracking using DVC (without Pipeline)
+   1. Journey Till Now
+   2. Need of experiment Tracking
+   3. What is Experiment Tracking
+      1. Benefits
+      2. Tools for Exp. Tracking
+   4. DVC Experiment Tracking Demo (Without Pipeline)
+
+
+                
+15. Session 14 (Part 2) on MLOps Revisited - Experiment Tracking using DVC (with Pipeline)
+1. DVC Exp. Tracking Demo with Pipeline
+   1. Step by Step Process
+2. DVC repro vs DVC exp run
+16. Session 15 on MLOps Revisited - Introduction to MLflow
+   1. Recap
+   2. Limitation of DVC
+   3. MLFlow
+      1. Introduction to MLflow
+      2. MLFlow demo
+      3. What can MLflow track
+      4. MLflow tracking Server
+17. Session 16 (Part 1) on MLOps Revisited - MLOps Remote Tracking using Dagshub
+1. Recap
+2. Plan of Attack for MLFlow Tracking Remote Server
+3. Dagsub
+   1. Introduction
+   2. Demo 
+
+
+18. Session 16 (Part 2) on MLOps Revisited - MLflow Remote Tracking using AWS
+   1. AWS Setup for MLflow
+      1. Create IAM User
+      2. Create S3 bucket
+      3. Create EC2 instance
+   2. Steps to start MLFlow server
+   3. Working Demo of MLFlow on AWS
+19. Session 17 (Part 1) on MLOps Revisited - Autologging in MLflow
+   1. TBD
+20. Session 17 (Part 2) on MLOps Revisited - Hyperparameter Tuning in MLflow
+   1. TBD
+21. Session 18 on MLOps Revisited - Model Registry
+   1. TBD
+22. Session 19 on MLOps Revisited - Mini Project
+   1. TBD
+23. Session 20 on MLOps Revisited - Model Serving
+   1. TBD
+24. Session 21 on MLOps Revisited - Fundamentals of CI
+   1. TBD
+
+
+
+
+
+
+
+
+Note: The schedule is tentative and topics can be added/removed from it in the future.

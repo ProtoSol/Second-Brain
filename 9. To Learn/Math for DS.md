@@ -86,6 +86,14 @@ Phase 7 – Integration & Synthesis
 [ ] Softmax + cross-entropy gradient reproduced
 [ ] Regularization effect (L1 sparsity vs L2 shrinkage) articulated
 
+## Progress Metrics (Manual)
+Checklist Progress: 0 / 13
+Current Phase: (Phase 0–7)
+Active Derivation: (e.g., PCA variance derivation)
+Last Review: (YYYY-MM-DD)
+Next Review: (YYYY-MM-DD)
+Retention Target: (e.g., Re-derive 3 prior items this week)
+
 ## Practice Cadence
 Daily (15–25m): 2–3 micro derivations or probability drills
 Alternate days: One conceptual write-up (teach-to-self paragraph)

@@ -94,6 +94,14 @@ Phase 8 – Advanced Topics (Optional)
 [ ] CUDA kernel (vector add + reduction) profiled
 [ ] Comparison notes CPU vs GPU throughput written
 
+## Progress Metrics (Manual)
+Checklist Progress: 0 / 13
+Current Phase: (Phase 0–8)
+Active Experiment: (e.g., Sprite Batching Prototype)
+Last Review: (YYYY-MM-DD)
+Next Review: (YYYY-MM-DD)
+Primary Bottleneck Under Study: (fill after first capture)
+
 ## Project Ladder
 1. Sprite Playground (2D batching, simple shader) – 1–2 days
 2. Mini 3D Scene (camera, lighting, rotating objects) – 1 week

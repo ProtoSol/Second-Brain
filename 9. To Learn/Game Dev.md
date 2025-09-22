@@ -88,6 +88,14 @@ Phase 7 – Release & Iteration
 [ ] One tool/editor plugin authored
 [ ] Post-release polish pass done
 
+## Progress Metrics (Manual)
+Checklist Progress: 0 / 15
+Current Phase: (Phase 0–7)
+Active Build: (e.g., Project 1 – One Screen Arcade)
+Last Review: (YYYY-MM-DD)
+Next Review: (YYYY-MM-DD)
+Juice / Performance Focus: (e.g., camera smoothing, batching)
+
 ## Project Ladder
 1. Micro: "One Screen Arcade" – Single mechanic (endless dodge / jumper) (1–2 days)
 2. Small: 2D Platformer slice – Movement, enemies, coins, HUD (1 week)

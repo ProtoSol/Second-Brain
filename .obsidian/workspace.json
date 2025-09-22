@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Archive/Archive.md",
+                "file": "9. To Learn/Data Science.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archive"
+              "title": "Data Science"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "7be3ef2ba896e33f",
   "lastOpenFiles": [
+    "Indexes/Knowledge Hub.md",
+    "99. Archive/Archive.md",
     "10. Research Papers/C++ Papers.md",
     "9. To Learn/Math for DS.md",
     "9. To Learn/Graphics Engineering.md",
@@ -197,10 +199,8 @@
     "Templates",
     "Derivations/Derivation Log.md",
     "Derivations",
-    "Indexes/Knowledge Hub.md",
     "Indexes",
     "10. Research Papers/Graphics Engineering Papers.md",
-    "99. Archive/Archive.md",
     "99. Archive",
     "10. Research Papers/Graphic Engineering Papers.md",
     "10. Research Papers/Game Dev Papers.md",

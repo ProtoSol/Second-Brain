@@ -59,6 +59,14 @@ C++ is a versatile, high-performance programming language that provides low-leve
 - [ ] Benchmark difference between reserve vs no reserve on vector
 - [ ] Profile and remove one micro-inefficiency
 
+## Progress Metrics (Manual)
+Checklist Progress: 0 / 14
+Current Phase: (Set: Phase 1–6)
+Active Project: (e.g., Project 1 – CLI Note Taker)
+Last Review: (YYYY-MM-DD)
+Next Review: (YYYY-MM-DD)
+Notes: Update counts weekly; mark finished items [x] above first.
+
 ## Practice Projects (in increasing difficulty)
 1. CLI Note Taker (files, vectors, string ops) 
 2. Mini JSON parser (iterators, recursion)
