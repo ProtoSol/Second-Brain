@@ -103,7 +103,10 @@ Pattern Win This Week: (fill after weekly retro)
 - CLRS (Core theory; make summaries per chapter)
 - CP Algorithms (implementations): https://cp-algorithms.com/
 - USACO Guide (progression + practice): https://usaco.guide/
-- VisuAlgo (visualizations): https://visualgo.net/
+- VisuAlgo (visualizations): https://visualgo.net/ 🌟
+- Python & Algorithms 2.0 (Marina Wahl): [PDF Available]
+- Interactive Python DSA: http://interactivepython.org/runestone/static/pythonds/index.html
+- Udacity Data Structures & Algorithms: https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 
 ## Debug / Improvement Techniques
 - Dry-run with state tables

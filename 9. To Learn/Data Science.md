@@ -6,6 +6,14 @@ Tags: #DataScience #Learning
 
 # Data Science Learning
 
+**Latest Update (2025-09-24):** Added comprehensive resources from frontbenchHQ/Data-Science-Free GitHub repository. Archived 20 lower-quality/redundant resources to maintain focus. Collection now includes 🌟 markers for highest-priority resources.
+
+**Resource Distribution:**
+- Algorithm & DSA resources → [[DSA]]
+- Math foundations (calculus, linear algebra, statistics) → [[Math for DS]]  
+- Papers With Code → [[10. Research Papers/Data Science Papers]]
+- 17 items archived for quality/redundancy → [[99. Archive/Archive]]
+
 ## Purpose
 Develop end‑to‑end capability: acqu### Machine Learning
 - Hands-On Machine Learning (Aurélien Géron) – implementation depth
@@ -139,39 +147,124 @@ Metric to Improve: (e.g., F1 / latency / drift detection clarity)
 ### Structured Curricula
 - Microsoft Data Science for Beginners: https://github.com/microsoft/Data-Science-For-Beginners
 - OSSU Data Science Path: https://github.com/ossu/data-science
+- Open Machine Learning Course: https://mlcourse.ai/ 🌟
+
 ### Core Python/Data
 - Python Data Science Handbook (notebooks): https://jakevdp.github.io/PythonDataScienceHandbook/
 - pandas user guide: https://pandas.pydata.org/docs/
 - NumPy fundamentals: https://numpy.org/doc/stable/user/absolute_beginners.html
+- Python 3 Tutorial (Programiz): https://www.programiz.com/python-programming/tutorial
+- Quantitative Economics with Python: https://lectures.quantecon.org/py/
+- Python for Data Analysis (2nd Edition): https://github.com/wesm/pydata-book 🌟
+- Effective Pandas: https://github.com/TomAugspurger/effective-pandas
+- Pandas Cheat Sheet: https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+- Python by SciPy: https://scipython.com/book/
+
+### Mathematics Foundations
+#### Calculus
+- Essence of Calculus (3Blue1Brown): https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr 🌟
+- Khan Academy Calculus 1: https://www.khanacademy.org/math/calculus-1
+- Khan Academy Calculus 2: https://www.khanacademy.org/math/calculus-2
+- Khan Academy Multivariable Calculus: https://www.khanacademy.org/math/multivariable-calculus
+
+#### Linear Algebra
+- Essence of Linear Algebra (3Blue1Brown): https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 🌟
+- Khan Academy Linear Algebra: https://www.khanacademy.org/math/linear-algebra
+- MIT Linear Algebra: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+- UBC Linear Algebra (James B. Carrell): https://www.math.ubc.ca/~carrell/NB.pdf
+- Manga Guide to Linear Algebra: [PDF Available]
+
+#### Statistics & Probability  
+- Khan Academy Statistics & Probability: https://www.khanacademy.org/math/statistics-probability 🌟
+- Think Stats: http://greenteapress.com/thinkstats/thinkstats.pdf 🌟
+- Probability Cheat Sheet: http://www.wzchen.com/probability-cheatsheet/
+- Bayesian Methods for Hackers: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
+### Statistical Learning
+- Introduction to Statistical Learning: https://www-bcf.usc.edu/~gareth/ISL/index.html 🌟
+- Elements of Statistical Learning (Stanford): https://web.stanford.edu/~hastie/ElemStatLearn/ 🌟
+
 ### Machine Learning
-- Hands-On Machine Learning (Aurélien Géron) – implementation depth
-- ISLP (theory + intuition)
-- Made With ML (modern practical course): https://madewithml.com/#course
+- Hands-On Machine Learning (Aurélien Géron) – implementation depth 🌟
+- ISLR (theory + intuition) 🌟
+- Made With ML (modern practical course): https://madewithml.com/#course 🌟
+- scikit-learn User Guide: https://scikit-learn.org/stable/user_guide.html
+- Machine Learning: An Algorithmic Perspective: [PDF Available]
+- Stanford CS229 Machine Learning (Andrew Ng): https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+- Google ML Crash Course (TensorFlow): https://developers.google.com/machine-learning/crash-course/
+- Stanford CS229 VIP Cheatsheet: https://github.com/afshinea/stanford-cs-229-machine-learning
+- Reinforcement Learning (Barto & Sutton): [PDF Available]
+
 ### Deep Learning
-- Karpathy Neural Networks: Zero to Hero: https://karpathy.ai/zero-to-hero.html
-- Dive into Deep Learning: https://d2l.ai/
+
+- Karpathy Neural Networks: Zero to Hero: https://karpathy.ai/zero-to-hero.html 🌟
+- Dive into Deep Learning: https://d2l.ai/ 🌟
+- Fast.ai Practical Deep Learning: https://course.fast.ai/ 🌟
+- MIT Deep Learning (Lex Fridman): https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
+- MIT 6.S191 Deep Learning: https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+- Grokking Deep Learning (Andrew Trask)
+
 ### MLOps & Deployment
-- Full Stack Deep Learning (prod systems): https://fullstackdeeplearning.com/course/2022/
+- Full Stack Deep Learning (prod systems): https://fullstackdeeplearning.com/course/2022/ 🌟
 - MLflow quickstart: https://mlflow.org/docs/latest/quickstart.html
 - FastAPI docs (serving): https://fastapi.tiangolo.com/
 - Docker for Data Science: https://docker-curriculum.com/
 - Kubernetes basics: https://kubernetes.io/docs/tutorials/
+
 ### Feature Engineering / Performance
-- Feature Engineering Kaggle Course: https://www.kaggle.com/learn/feature-engineering
+- Feature Engineering Kaggle Course: https://www.kaggle.com/learn/feature-engineering 🌟
 - Efficient Pandas (benchmark patterns) – write internal note
+
 ### Visualization
 - Seaborn docs: https://seaborn.pydata.org/
 - Plotly Express user guide: https://plotly.com/python/plotly-express/
+
 ### Ethics / Responsible AI
 - Fairlearn: https://fairlearn.org/
 - Model Cards: https://modelcards.withgoogle.com/about
 
+### Practice Platforms
+- Kaggle: https://www.kaggle.com/ 🌟
+- Project Euler: https://projecteuler.net/
+- Project-Based Learning: https://github.com/tuvtran/project-based-learning#python
+- TensorFlow Playground: https://playground.tensorflow.org/
+- ML Playground: http://ml-playground.com/
+
+### Top Courses & Specializations  
+
+- CS109 Data Science (Harvard): http://cs109.github.io/2015/pages/videos.html
+
+### Interview Resources
+
+- 100 Data Science Interview Q&A: https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184
+
+### Research & Papers
+- Papers With Code: https://paperswithcode.com/ 🌟
+
+### Blogs & Communities
+
+- Machine Learning for Everyone: https://vas3k.com/blog/machine_learning/ 🌟
+- KDNuggets: https://www.kdnuggets.com/ 🌟
+- Towards Data Science: https://towardsdatascience.com/ 🌟
+- Analytics Vidhya: https://www.analyticsvidhya.com/
+
 ### Selected YouTube (High Signal)
-- StatQuest (statistics clarity)
-- 3Blue1Brown (math intuition)
+
+- StatQuest (statistics clarity) 🌟
+- 3Blue1Brown (math intuition) 🌟
 - Sebastian Raschka (PyTorch / ML explanations)
-- Andrej Karpathy (DL systems & intuition)
+- Andrej Karpathy (DL systems & intuition) 🌟
+- Pandas Data School: https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
 - Computerphile (systems & conceptual overviews)
+
+### AI Projects & Demos
+
+- Plant Disease Detection (PyTorch): https://github.com/imskr/Plant_Disease_Detection
+- Pong from Pixels (RL): http://karpathy.github.io/2016/05/31/rl/
+
+### Medium Articles (High Quality)
+- Simple RL with TensorFlow (Arthur Juliani): https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0
+- Machine Learning for Humans (Vishal Maini): https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
 
 (Trimmed large NPTEL list; add specific course links only when enrolling. Removed CUDA here—see [[Graphics Engineering]] for GPU deep dive.)
 
