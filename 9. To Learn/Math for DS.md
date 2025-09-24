@@ -106,6 +106,24 @@ Primary Texts
 - Strang 18.06 (lecture emphasis on intuition): (YouTube / MIT OCW)
 - The Matrix Cookbook (reference, not primary learning): https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 
+**Calculus**
+- Essence of Calculus (3Blue1Brown): https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr 🌟
+- Khan Academy Calculus 1: https://www.khanacademy.org/math/calculus-1
+- Khan Academy Calculus 2: https://www.khanacademy.org/math/calculus-2
+- Khan Academy Multivariable Calculus: https://www.khanacademy.org/math/multivariable-calculus
+
+**Linear Algebra**
+- Essence of Linear Algebra (3Blue1Brown): https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 🌟
+- Khan Academy Linear Algebra: https://www.khanacademy.org/math/linear-algebra
+- MIT Linear Algebra: https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8
+- UBC Linear Algebra (James B. Carrell): https://www.math.ubc.ca/~carrell/NB.pdf
+
+**Statistics & Probability**
+- Khan Academy Statistics & Probability: https://www.khanacademy.org/math/statistics-probability 🌟
+- Think Stats: http://greenteapress.com/thinkstats/thinkstats.pdf 🌟
+- Probability Cheat Sheet: http://www.wzchen.com/probability-cheatsheet/
+- Bayesian Methods for Hackers: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
 Supplemental / Explanatory
 - 3Blue1Brown (Linear Algebra & Calculus playlists)
 - Seeing Theory (probability visualization): https://seeing-theory.brown.edu/

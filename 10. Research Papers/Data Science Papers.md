@@ -8,6 +8,9 @@ Tags: #DataScience #ResearchPapers
 
 Purpose: Focused shortlist of seminal & practically influential works. Each entry answers: What problem does it solve? When do I revisit it? (Add personal notes beneath each once read.)
 
+## Research Discovery Platform
+- **Papers With Code**: https://paperswithcode.com/ 🌟 – Links papers to implementations; excellent for finding reproducible research and SOTA comparisons
+
 ## Reading Strategy
 1. Build intuition with blog / simplified explainer (if needed)
 2. Skim abstract + figures first

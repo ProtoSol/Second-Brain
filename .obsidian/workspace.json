@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "56b9181ced3e96e8",
+        "id": "91bd98d98193b27e",
         "type": "tabs",
         "children": [
           {
-            "id": "7be3ef2ba896e33f",
+            "id": "927d0da726333c13",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "9. To Learn/Data Science.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Data Science"
             }
           }
         ]
@@ -182,15 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7be3ef2ba896e33f",
+  "active": "927d0da726333c13",
   "lastOpenFiles": [
     "9. To Learn/DSA.md",
-    "1. Indexes/Knowledge Hub.md",
+    "9. To Learn/Math for DS.md",
+    "9. To Learn/Graphics Engineering.md",
+    "9. To Learn/Graphic Engineering.md",
     "9. To Learn/Data Science.md",
     "99. Archive/Archive.md",
     "10. Research Papers/C++ Papers.md",
-    "9. To Learn/Math for DS.md",
-    "9. To Learn/Graphics Engineering.md",
     "9. To Learn/Game Dev.md",
     "6. Main Notes/2025-09-22.md",
     "6. Main Notes/Basic Relationship between Variables.md",
@@ -210,7 +220,6 @@
     "10. Research Papers/Data Science Papers.md",
     "10. Research Papers/Math for DS Papers.md",
     "10. Research Papers",
-    "9. To Learn/Graphic Engineering.md",
     "9. To Learn",
     "2. Source Material/Books/Introduction to Statistical Learning.md",
     "6. Main Notes/Characters.md",
