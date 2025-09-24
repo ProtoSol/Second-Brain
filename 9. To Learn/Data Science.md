@@ -15,9 +15,10 @@ Tags: #DataScience #Learning
 - 17 items archived for quality/redundancy → [[99. Archive/Archive]]
 
 ## Purpose
-Develop end‑to‑end capability: acqu### Machine Learning
+Develop end‑to‑end capability: 
+- Machine Learning
 - Hands-On Machine Learning (Aurélien Géron) – implementation depth
-- ISLR (theory + intuition)
+- ISLP (theory + intuition)
 - Made With ML (modern practical course): https://madewithml.com/#course
 - scikit-learn User Guide (algorithms documentation): https://scikit-learn.org/stable/user_guide.html
 ### Advanced ML & Statistics
@@ -186,7 +187,7 @@ Metric to Improve: (e.g., F1 / latency / drift detection clarity)
 
 ### Machine Learning
 - Hands-On Machine Learning (Aurélien Géron) – implementation depth 🌟
-- ISLR (theory + intuition) 🌟
+- ISLP (theory + intuition) 🌟
 - Made With ML (modern practical course): https://madewithml.com/#course 🌟
 - scikit-learn User Guide: https://scikit-learn.org/stable/user_guide.html
 - Machine Learning: An Algorithmic Perspective: [PDF Available]
