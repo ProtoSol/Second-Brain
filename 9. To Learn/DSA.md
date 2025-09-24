@@ -143,5 +143,73 @@ Weekend: Review + project integration
 - [ ] Add articulation point implementation
 - [ ] Weekly retro: list 3 patterns strengthened
 
+# LLD (Low-Level Design) – Start After DSA C++
+
+Status: Planned (defer until DSA C++ foundations are complete)
+
+## Purpose (LLD)
+
+Translate problem statements into maintainable, testable OOP designs with clear responsibilities, SOLID adherence, and extensible abstractions.
+
+## Outcomes (LLD)
+
+- Apply SOLID principles and common patterns intentionally (not cargo-cult).
+- Produce class diagrams and responsibility tables before coding.
+- Implement clean, dependency-injected modules with unit tests.
+- Reason about trade-offs: inheritance vs composition, state vs strategy, events vs polling.
+
+## Mini-Roadmap (LLD) – 2–3 weeks
+
+1) Principles: SOLID, cohesion/coupling, interfaces.
+2) Patterns by need: Strategy, State, Observer, Factory, Builder, Adapter.
+3) Case studies: Logger, Rate Limiter (OO), Parking Lot, Cache wrapper.
+
+## Curated Resources (LLD)
+
+- Refactoring.Guru Design Patterns: https://refactoring.guru/design-patterns 🌟
+- Game Programming Patterns (applicable broadly): https://gameprogrammingpatterns.com/
+- Clean Code summary notes (create internal) + SOLID cheatsheet
+- Head First Design Patterns (book) – optional for visuals
+
+## TODO (LLD)
+
+- [ ] Write SOLID one-pagers with examples in C++
+- [ ] Implement Strategy/State/Observer small katas
+- [ ] Design Parking Lot with tests (no I/O) in C++
+
+# System Design (High-Level) – Start After LLD Basics
+
+Status: Planned (begin after LLD section kick-off)
+
+## Purpose (System Design)
+
+Design scalable, reliable systems by identifying requirements, constraints, bottlenecks, and applying appropriate components (caching, queues, storage, consistency models).
+
+## Outcomes (System Design)
+
+- Define functional/non-functional requirements and clear APIs.
+- Draw capacity estimates and identify bottlenecks.
+- Choose storage (SQL/NoSQL), caching, and messaging with rationale.
+- Explain consistency, availability, partitioning trade-offs (CAP), and replication.
+
+## Mini-Roadmap (System Design) – 2–3 weeks
+
+1) Foundations: latency numbers, availability math, SLAs/SLOs, CAP.
+2) Components: LB, CDN, cache, DB, queue, search, object store.
+3) Designs: URL shortener, Feed system, Rate limiter (distributed), File storage.
+
+## Curated Resources (System Design)
+
+- System Design Primer: https://github.com/donnemartin/system-design-primer 🌟
+- ByteByteGo (YouTube) – visual explanations: https://www.youtube.com/@ByteByteGo 🌟
+- Designing Data-Intensive Applications (Kleppmann) – book
+- High Scalability blog (patterns and case studies): http://highscalability.com/
+
+## TODO (System Design)
+
+- [ ] Make latency/throughput quick reference card
+- [ ] Capacity estimate worksheet for URL shortener
+- [ ] Draft designs for URL shortener and news feed
+
 # Research Papers
 - [[10. Research Papers/DSA Papers]]
